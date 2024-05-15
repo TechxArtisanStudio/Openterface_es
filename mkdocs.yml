@@ -1,0 +1,204 @@
+# Información del proyecto
+site_name: Openterface Mini-KVM | Convierte tu portátil en una consola KVM
+site_url: https://es.openterface.com/
+site_author: Billy Wang
+site_description: Una solución de KVM sobre USB rica en funciones, de código abierto y dirigida por la comunidad
+
+# Repositorio de GitHub
+repo_name: Openterface
+repo_url: https://github.com/TechxArtisanStudio/Openterface_es
+
+# Derechos de autor
+copyright: >-
+  Derechos de autor &copy; Todos los derechos reservados. 2023 <a href="https://www.openterface.com">Openterface MiniKVM</a>, Guangzhou Billio Tech. Co., Ltd. <br>
+  <a href="">Inicio</a> |
+  <a href="/terms-of-service">Términos de Servicio</a> |
+  <a href="/privacy-policy">Política de Privacidad</a> | 
+  <a href="#__consent">Ajustes de Cookies</a> | 
+  <a href="/contact">Contáctanos</a>
+
+extra_css:
+  - assets/stylesheets/extra.css
+
+# extra_javascript:
+#   - assets/javascripts/extra.js
+
+# Configuration
+theme:
+  name: material
+  custom_dir: docs/overrides
+  language: es
+  font:
+    text: Roboto
+    code: Roboto Mono
+  logo: assets/logo.png
+  favicon: images/favicon.png
+  features:
+   - navigation.tabs
+   - navigation.sections
+   - navigation.top
+   - navigation.footer
+   - navigation.indexes
+   - toc.integrate
+   - search.suggest
+   - search.highlight
+   - content.tabs
+   - content.code.annotation
+   - content.code.copy
+  palette:
+    primary: deep orange
+    accent: custom
+  icon:
+    admonition:
+      note: fontawesome/solid/note-sticky
+      abstract: fontawesome/solid/book
+      info: fontawesome/solid/circle-info
+      tip: fontawesome/solid/bullhorn
+      success: fontawesome/solid/check
+      question: fontawesome/solid/circle-question
+      warning: fontawesome/solid/triangle-exclamation
+      failure: fontawesome/solid/bomb
+      danger: fontawesome/solid/skull
+      bug: fontawesome/solid/robot
+      example: fontawesome/solid/flask
+      quote: fontawesome/solid/quote-left
+
+extra:
+  social:
+    - icon: txa/crowd-supply-icon
+      link: https://www.crowdsupply.com/techxartisan/openterface-mini-kvm
+    - icon: fontawesome/brands/reddit-alien
+      link: https://www.reddit.com/r/Openterface_miniKVM/
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/sFTJD6a3R8
+    - icon: fontawesome/brands/youtube
+      link: https://youtube.com/@TechxArtisan
+    - icon: fontawesome/brands/x-twitter
+      link: https://twitter.com/TechxArtisan
+    - icon: fontawesome/brands/facebook-f
+      link: https://www.facebook.com/TechxArtisan
+    - icon: fontawesome/brands/linkedin-in
+      link: https://www.linkedin.com/company/techxartisan/
+
+    # - icon: fontawesome/brands/github-alt
+    #   link: https://github.com/TechxArtisan
+  
+  alternate:
+    - name: English
+      link: https://openterface.com/
+      lang: en
+    # - name: 中文简体
+    #   link: https://zh.openterface.com/
+    #   lang: zh
+    # - name: 中文繁體
+    #   link: https://tw.openterface.com/
+    #   lang: zh-Hant
+    - name: 日本語
+      link: https://jp.openterface.com/
+      lang: ja
+    # - name: 한국어
+    #   link: https://kr.openterface.com/
+    #   lang: ko
+    # - name: Français
+    #   link: https://fr.openterface.com/
+    #   lang: fr
+    # - name: Deutsch
+    #   link: https://de.openterface.com/
+    #   lang: de
+    # - name: Italiano
+    #   link: https://it.openterface.com/
+    #   lang: it
+    - name: Español
+      link: https://es.openterface.com/
+      lang: es
+    # - name: Português
+    #   link: https://pt.openterface.com/
+    #   lang: pt
+    # - name: Svenska
+    #   link: https://sv.openterface.com/
+    #   lang: sv
+    # - name: Polski
+    #   link: https://pl.openterface.com/
+    #   lang: pl
+    # - name: Nederlands
+    #   link: https://nl.openterface.com/
+    #   lang: nl
+
+  consent:
+    title: Consentimiento de Cookies
+    description: >- 
+      Utilizamos cookies para mejorar la calidad del contenido de los documentos, analizar la efectividad y las necesidades del sitio. 
+      Al dar tu consentimiento, nos ayudas a mejorar nuestro sitio web. ¡Gracias!
+    actions:
+      - accept
+      - reject
+  analytics:
+    provider: google
+    property: G-EKZEH6QYWT
+
+markdown_extensions:
+  - tables
+  # Enables admonitions
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  # Enables emoji shortcodes like :+1: or :sunglasses:
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+      options:
+              custom_icons:
+                - overrides/.icons
+  - toc:
+      permalink: ¶
+      toc_depth: 3
+
+plugins:
+  - glightbox
+  - search
+  - tags:
+      tags_file: tags.md
+  # - blog:
+  #     post_url_format: "{slug}"
+  #     authors_file: "{blog}/.authors.yml"
+  #     blog_toc: true
+  #     post_excerpt_separator: <!-- more -->
+  #     categories_name: Categories
+  #     categories_toc: true
+  #     pagination: true
+  #     pagination_per_page: 10
+  #     draft: true
+  #     archive: false
+
+nav:
+  - Inicio: index.md
+  - Preguntas Frecuentes: /faq
+  - Documentación:
+    - Inicio Rápido: quick-start.md
+    - Por Qué Openterface: why-openterface-minikvm.md
+    - Casos de Uso: use-cases.md
+    - Especificaciones: specifications.md
+    - Qué Hay en la Caja: whats-in-the-box.md
+    - Cómo Funciona 💬: how-it-works.md
+    - Comparación 💬: comparison.md
+    - Preguntas Frecuentes 💬: faq.md
+    - Desarrollo:
+      - Contribuir 💬: contributing.md
+      - Pruebas Básicas 💬: basic-testing.md
+  - Comunidad:
+    - Bienvenida: community.md
+  - Publicaciones:
+    - blog/index.md
+  - Acerca de:
+    - Contacto: contact.md
+    - Políticas:
+      - Política de Privacidad: privacy-policy.md
+      - Términos de Servicio: terms-of-service.md
+      - Devoluciones, Reembolsos y Garantía: return-refunds-warranty.md
