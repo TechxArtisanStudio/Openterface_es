@@ -1,39 +1,39 @@
-# コミュニティ
+# Comunidad
 
-やあ、こんにちは！ Openterface コミュニティへようこそ！ 🎉 私たちはオープンさ、サポート、そして友好性を大切にしています。
-最新情報、チャット、そして同じ興味を持つ人々とのつながりのために、ぜひ参加してください：
+¡Hola! ¡Bienvenido a nuestra comunidad de Openterface! 🎉 Estamos centrados en la apertura, el apoyo y la amistad.
+Para actualizaciones, charlas y conexiones con personas que comparten tus intereses, únete a:
 
 - :fontawesome-brands-reddit-alien: [Reddit](https://www.reddit.com/r/Openterface_miniKVM/)
 - :fontawesome-brands-discord: [Discord](https://discord.gg/sFTJD6a3R8)
 - :fontawesome-brands-github-alt: [GitHub](https://github.com/TechxArtisanStudio/Openterface/discussions)
 
-もし変化をもたらすことに情熱を持っている方で、[貢献](/contributing)したいとお考えでしたら、ぜひ[メールを送ってください](mailto:info@techxartisan.com) ✉️。私たちはあなたの参加を心待ちにしています！一緒に協力し、アイデアを共有し、Openterfaceを改良して、私たちの技術体験を一緒に向上させましょう ❤️
+Si te apasiona marcar la diferencia y deseas [contribuir](/contributing), por favor no dudes en [enviarnos un correo electrónico](mailto:info@techxartisan.com) ✉️. ¡Estamos ansiosos por tenerte a bordo! Únete a nosotros para colaborar, compartir ideas y ajustar Openterface para mejorar nuestra experiencia tecnológica juntos ❤️
 
-## 謝辞
+## Reconocimientos
 
-こちらは、Openterface Mini-KVMを前進させる🦸 **ヒーロー** 🌟たちに捧げるトリビュートです！
+Aquí hay un homenaje a los 🦸 **HÉROES** 🌟 que impulsan el Openterface Mini-KVM hacia adelante!
 
-### 🛠 コアチーム
+### 🛠 Equipo Principal
 
 - Billy Wang
 - Kevin Peng
 - Shawn Ling
 
-### 💻 開発者の貢献者
+### 💻 Colaboradores de Desarrollo
 
 - Vileer
 
-### 🌟 特別感謝
+### 🌟 Agradecimientos Especiales
 
 - [Cameron Gray](https://www.youtube.com/@camerongray1515)
 - Vincent
 - Vileer
 
-### 🌍 コミュニティ貢献者
+### 🌍 Colaboradores de la Comunidad
 
-さまざまなコミュニティ、特に以下のようなテック愛好家の皆さんからの貴重なコメントやフィードバックに心から感謝します。
+Un enorme agradecimiento a todos los entusiastas de la tecnología por los valiosos comentarios y retroalimentación de diversas comunidades, incluyendo:
 
-- YouTube製品レビュー
+- Reseñas de productos en YouTube
     - Cameron Gray [This USB KVM Console is Awesome! - Openterface by TechxArtisan](https://youtu.be/xAEQpWyfY-c?si=sYXiFBrzTiHyIGna)
 - r/homelab
     - [Been on This Mini KVM Feature Like Crazy: Copy Text from Host to Target](https://www.reddit.com/r/homelab/comments/1b2adz5/been_on_this_mini_kvm_feature_like_crazy_copy/)
@@ -50,4 +50,4 @@
 - r/Design
     - [New Look for Our Mini-KVM: What Do You Think? Feedback pls!](https://www.reddit.com/r/Design/comments/1aht6m3/new_look_for_our_minikvm_what_do_you_think/)
 
-皆さまのコメントやフィードバックは、私たちのチームの精神に燃料を注ぐものであり、🚀 **私たちを前進させ、刺激を与える** ことで、特にプロジェクト開発の初期段階において、可能性の境界を押し広げ続けることができます。🌟 本当にありがとうございます！ 🙌🎉
+Tus comentarios y retroalimentación son como combustible para el espíritu de nuestro equipo, 🚀 **impulsándonos hacia adelante e inspirándonos** a seguir empujando los límites de lo posible, especialmente durante las primeras etapas del desarrollo de nuestro proyecto. 🌟 ¡Muchas gracias! 🙌🎉
