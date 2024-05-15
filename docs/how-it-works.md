@@ -2,19 +2,19 @@
 comments: true
 ---
 
-# 仕組み
+# Cómo Funciona
 
-## プロセスの詳細
+## Desglose del Proceso
 
-- **スクリーンストリーミング**: ミニKVMはターゲットコンピュータからの画面ストリームをキャプチャし、ホストコンピュータのアプリに表示します。これにより、ユーザーはホストマシンから直接ターゲットシステムを閲覧および管理できます。
-- **カーソルとマウスの制御**: ホストコンピュータのアプリウィンドウにマウスを移動することで、ユーザーはVNCを使用しているかのようにターゲットデバイスのカーソルを制御できます。この機能により、1つの画面で2つのシステムを同時に操作できます。
-- **キーボード入力**: アプリウィンドウがアクティブな場合、ホストコンピュータのキーボードで行われた任意のキーストロークがターゲットデバイスに送信され、シームレスなタイピングとコマンド入力が可能になります。
-- **HIDシグナル変換**: アプリ内のすべてのキーボードおよびマウス入力は、ヒューマンインターフェースデバイス（HID）制御シグナルに変換され、その後ターゲットコンピュータに送信されます。
-- **同期**: アプリはターゲットコンピュータの画面とカーソルがホストコンピュータのディスプレイと同期することを保証し、統一されたユーザーエクスペリエンスを実現します。
+- **Transmisión de Pantalla**: El mini-KVM captura el flujo de pantalla desde el ordenador objetivo y lo muestra en la aplicación del ordenador host. Esto permite a los usuarios ver y gestionar el sistema objetivo directamente desde su máquina principal.
+- **Control de Cursor y Ratón**: Moviendo el ratón a la ventana de la aplicación en el ordenador host, los usuarios pueden controlar el cursor en el dispositivo objetivo como si estuvieran utilizando un VNC. Esta funcionalidad permite operar dos sistemas simultáneamente en una misma pantalla.
+- **Entrada de Teclado**: Cuando la ventana de la aplicación está activa, cualquier pulsación de tecla realizada en el teclado del ordenador host se transmite al dispositivo objetivo, permitiendo una escritura y entrada de comandos sin problemas.
+- **Conversión de Señal HID**: Todas las entradas de teclado y ratón dentro de la aplicación se convierten en señales de control de Dispositivo de Interfaz Humana (HID), que luego se envían al ordenador objetivo.
+- **Sincronización**: La aplicación garantiza que la pantalla y el cursor del ordenador objetivo estén sincronizados con la pantalla del ordenador host, facilitando una experiencia de usuario unificada.
 
-## ハードウェアの詳細を探る
+## Explorar Detalles del Hardware
 
-- [Openterface_Mini-KVM_Hardware](https://github.com/TechxArtisan/Openterface_Mini-KVM_Hardware): 当社の包括的なハードウェアデザイン、回路図、およびコンポーネントを探索してください。
+- [Openterface_Mini-KVM_Hardware](https://github.com/TechxArtisanStudio/Openterface_Mini-KVM_Hardware): Explora nuestro diseño de hardware completo, esquemas y componentes.
 
 ![openterface-mini-kvm-product-with-PCB](/images/product/openterface-mini-kvm-product-with-PCB.jpg)
 
@@ -22,14 +22,14 @@ comments: true
     <div class="container">
         <div class="callout-button-container">
             <div class="dialogue-bubble" id="op-bubble">
-                <img src="/images/op-avatar.jpg" alt="アバター" class="avatar" draggable="false">
-                <p>詳細を読む 📖</p>
-                <a href="/faq" class="md-button md-button--primary" id="join-waitlist-button">FAQ</a>
+                <img src="/images/op-avatar.jpg" alt="avatar" class="avatar" draggable="false">
+                <p>Leer más 📖</p>
+                <a href="/faq" class="md-button md-button--primary" id="join-waitlist-button">Preguntas frecuentes</a>
             </div>
             <div class="dialogue-bubble" id="op-bubble">
-                <img src="/images/op-avatar.jpg" alt="アバター" class="avatar" draggable="false">
-                <p>質問？🤔</p>
-                <a href="https://www.reddit.com/r/Openterface_miniKVM/" class="md-button md-button--primary" id="join-waitlist-button">Subredditで尋ねる</a>
+                <img src="/images/op-avatar.jpg" alt="avatar" class="avatar" draggable="false">
+                <p>¿Pregunta?🤔</p>
+                <a href="https://www.reddit.com/r/Openterface_miniKVM/" class="md-button md-button--primary" id="join-waitlist-button">Preguntar en el Subreddit</a>
             </div>
         </div>
     </div>
