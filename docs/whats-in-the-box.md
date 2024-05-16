@@ -25,7 +25,7 @@ Explora nuestras dos opciones de compra diseñadas para satisfacer tus necesidad
         <div class="callout-button-container">
             <div class="dialogue-bubble" id="op-bubble">
                 <img src="/images/op-avatar.jpg" alt="Avatar" class="avatar" draggable="false">
-                <p>Order NOW! ❤️</p>
+                <p>¡Ordena AHORA! ❤️</p>
                 <a href="https://www.crowdsupply.com/techxartisan/openterface-mini-kvm" class="md-button md-button--primary" id="join-waitlist-button">Ir a Crowd Supply</a>
             </div>
             <div class="dialogue-bubble" id="op-bubble">
