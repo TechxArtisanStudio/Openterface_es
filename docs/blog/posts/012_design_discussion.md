@@ -4,7 +4,7 @@ authors:
   - Openterface
 categories:
   - Etapa - Prototipado
-  - Discussion
+  - Discusión
 tags:
   - Diseño
 ---

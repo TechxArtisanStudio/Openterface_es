@@ -3,7 +3,7 @@ date: 2024-04-26
 authors:
   - Openterface
 categories:
-  - Discussion
+  - Discusión
 ---
 
 # ¡Stickermanía: Desatando el Lado Juguetón de la Tecnología!
