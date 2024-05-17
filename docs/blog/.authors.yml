@@ -1,0 +1,10 @@
+authors:
+  TechxArtisan:
+    name: Estudio TechxArtisan
+    description: Un estudio creativo y una comunidad de entusiastas de la tecnología.
+    avatar: /images/txa-avatar.jpg
+
+  Openterface:
+    name: Openterface
+    description: ¡Hola!
+    avatar: /images/op-avatar.jpg

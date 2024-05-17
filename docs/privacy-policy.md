@@ -17,7 +17,7 @@ With no collection or retention of user data at any point, protecting user data 
 
 ## **Disclaimer**
 
-The Service may become open source in the future for transparency and community supervision. As a result, various versions of the app and device may be created and modified by third parties.This would enable anyone to inspect the code and build versions themselves, as well as modify for custom use cases. We will not be responsible for what individuals or organizations may build from modified code and hardware.  It is the user's responsibility to verify the source of the application. We strongly recommend downloading the app from our official website openterface.com and well-known, reliable certified app platform platforms for safety and reliability.
+The Service may become open source in the future for transparency and community supervision. As a result, various versions of the app and device may be created and modified by third parties.This would enable anyone to inspect the code and build versions themselves, as well as modify for custom Casos de uso. We will not be responsible for what individuals or organizations may build from modified code and hardware.  It is the user's responsibility to verify the source of the application. We strongly recommend downloading the app from our official website openterface.com and well-known, reliable certified app platform platforms for safety and reliability.
 
 ## **Changes to this Policy**
 
