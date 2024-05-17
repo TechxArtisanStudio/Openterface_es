@@ -6,7 +6,7 @@ categories:
   - Reseñas de influencers
 ---
 
-# Openterface Mini-KVM: un dispositivo KVM-over-USB asequible (Crowdfunding)
+# Reseña de producto por CNX Software: Openterface Mini-KVM - un dispositivo KVM-over-USB asequible (Crowdfunding)
 **9 DE MAYO DE 2024 POR JEAN-LUC AUFRANC (CNXSOFT)**
 
 **Openterface Mini-KVM** es un dispositivo compacto de hardware de código abierto KVM-over-USB con entradas HDMI y de audio que se conecta a través de un puerto USB-C al ordenador anfitrión.
