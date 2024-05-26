@@ -3,7 +3,7 @@ date: 2024-05-04
 authors:
   - Openterface
 categories:
-  - Etapa - Prototipado
+  - Etapa - Prototipo
 ---
 
 # 🇪🇺🇬🇧 ¡Trabajando en la certificación CE para el cable VGA a HDMI para los patrocinadores de la UE/Reino Unido! 🛠️

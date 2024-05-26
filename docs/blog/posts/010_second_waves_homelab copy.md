@@ -3,7 +3,7 @@ date: 2024-02-05
 authors:
   - Openterface
 categories:
-  - Etapa - Prototipado
+  - Etapa - Prototipo
   - Discusión
 tags:
   - Comunidad

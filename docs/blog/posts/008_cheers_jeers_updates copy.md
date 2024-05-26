@@ -4,7 +4,7 @@ authors:
   - Openterface
 categories:
   - Discusión
-  - Etapa - Prototipado
+  - Etapa - Prototipo
 tags:
   - Comunidad
 ---

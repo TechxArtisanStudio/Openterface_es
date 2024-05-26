@@ -3,7 +3,7 @@ date: 2024-02-06
 authors:
   - Openterface
 categories:
-  - Etapa - Prototipado
+  - Etapa - Prototipo
   - Casos de uso
 tags:
   - Server

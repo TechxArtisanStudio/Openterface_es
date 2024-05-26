@@ -3,7 +3,7 @@ date: 2024-05-10
 authors:
   - Openterface
 categories:
-  - Etapa - Prototipado
+  - Etapa - Prototipo
 ---
 
 # 🌟 Actualización del cable VGA a HDMI como Bonificación Gratuita 🌟

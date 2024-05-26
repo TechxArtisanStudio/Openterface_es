@@ -3,7 +3,7 @@ date: 2024-04-28
 authors:
   - Openterface
 categories:
-  - Etapa - Prototipado
+  - Etapa - Prototipo
 ---
 
 # Aliados del Mini-KVM Listos para Unirse a la Línea de Frente Tecnológica
