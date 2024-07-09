@@ -186,12 +186,12 @@ nav:
     - Casos de Uso: use-cases.md
     - Especificaciones: specifications.md
     - Qué Hay en la Caja: whats-in-the-box.md
-    - Cómo Funciona 💬: how-it-works.md
-    - Comparación 💬: comparison.md
-    - Preguntas Frecuentes 💬: faq.md
+    - Cómo Funciona: how-it-works.md
+    - Comparación: comparison.md
+    - Preguntas Frecuentes: faq.md
     - Desarrollo:
-      - Contribuir 💬: contributing.md
-      - Pruebas Básicas 💬: basic-testing.md
+      - Contribuir: contributing.md
+      - Pruebas Básicas: basic-testing.md
   - Comunidad:
     - Bienvenida: community.md
   - Publicaciones:

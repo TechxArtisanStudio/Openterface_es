@@ -1,7 +1,3 @@
----
-comments: true
----
-
 # Cómo Funciona
 
 ## Desglose del Proceso
