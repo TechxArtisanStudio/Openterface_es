@@ -1,15 +1,10 @@
 authors:
   TechxArtisan:
-    name: Estudio TechxArtisan
-    description: Un estudio creativo y una comunidad de entusiastas de la tecnología.
+    name: TechxArtisan Studio
+    description: A creative studio and community of tech enthusiasts.
     avatar: /images/txa-avatar.jpg
 
   Openterface:
     name: Openterface
-    description: ¡Hola!
+    description: Hi there!
     avatar: /images/op-avatar.jpg
-
-  CNXSOFT:
-    name: JEAN-LUC AUFRANC CNXSOFT
-    description: Jean-Luc fundó CNX Software en 2010 como una empresa a tiempo parcial, antes de dejar su trabajo como gerente de ingeniería de software y comenzar a escribir noticias diarias y reseñas a tiempo completo más adelante en 2011.
-    avatar: https://www.cnx-software.com/wp-content/uploads/2023/05/Jean-Luc-Aufranc.webp

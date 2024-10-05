@@ -1,50 +1,61 @@
 # Inicio Rápido
 
-## Descripción del Producto
+![basic-two-angled](images/product/basic-two-angled.jpg){:style="max-height:420px"}
 
-Nuestro **Openterface™ Mini-KVM** te permite controlar directamente desde tu propio portátil o escritorio (llamado **Anfitrión**) un ordenador cercano sin pantalla (al que nos referimos como el **Objetivo**), mediante conexión USB y HDMI, sin necesidad de un teclado, ratón, monitor o red adicionales.
+Nuestro **Openterface™ Mini-KVM** te permite controlar una computadora sin monitor directamente desde tu laptop o computadora de escritorio usando conexiones USB y HDMI, eliminando la necesidad de periféricos adicionales o conectividad de red. A lo largo de esta documentación, nos referimos a tu laptop o computadora de escritorio como el **Host** ( ![host-computer](images/shell-icons/host-computer.svg#only-light){:style="height:18px"} ![Host](images/shell-icons/host.svg#only-light){:style="height:15px"} ![host-computer](images/shell-icons/host-computer_1.svg#only-dark){:style="height:18px"} ![Host](images/shell-icons/host_1.svg#only-dark){:style="height:15px"} ) y al dispositivo que se controla como el **Target** ( ![target-computer](images/shell-icons/target-computer.svg#only-light){:style="height:18px"} ![Target](images/shell-icons/target.svg#only-light){:style="height:18px"} ![target-computer](images/shell-icons/target-computer_1.svg#only-dark){:style="height:18px"} ![Target](images/shell-icons/target_1.svg#only-dark){:style="height:18px"}).
 
-## Instalar Aplicación del Anfitrión
+<div class="grid cards" markdown>
 
-Para utilizar este mini-KVM, el ordenador anfitrión debe instalar una de las siguientes aplicaciones del anfitrión.
+-   :material-feature-search-outline:{ .lg .middle } __Características__
 
-- [Openterface_MacOS](https://github.com/TechxArtisanStudio/Openterface_MacOS) (Trabajo en Progreso): Para Soporte en MacOS; La aplicación de macOS también está disponible en la App Store de Apple, buscando "Openterface".
-- [Openterface_QT](https://github.com/TechxArtisanStudio/Openterface_QT) (Trabajo en Progreso): Para Soporte en Windows y Linux.
-- [Openterface_Android](https://github.com/TechxArtisanStudio/Openterface_Android) (Trabajo en Progreso): Para Soporte en Android.
-- [Openterface_WebExtension](https://github.com/TechxArtisanStudio/Openterface_WebExtension) (Trabajo en Progreso): Aplicación Basada en Web para Extensión de Chrome/Firefox.
+    ---
 
-Las aplicaciones del anfitrión mencionadas anteriormente están **actualmente en desarrollo**. ¡Estamos codificando activamente 🛠️ y mejorándolas mientras avanzamos! 💪 Si estás interesado en contribuir y quieres ser parte de un equipo de desarrollo innovador, ¡[únete a nosotros ahora!](mailto:info@techxartisan.com) 🚀
+    Descubre las potentes características del Openterface™ Mini-KVM
 
-## Procedimiento de Conexión
+    [:octicons-arrow-right-24: Ver Características](/features)
 
-Para configurar su Mini-KVM, siga estos pasos:
+-   :material-power-plug:{ .lg .middle } __Cómo Conectar__
 
-- **Conexión de la Computadora Anfitriona**:
-    - **Conexión Tipo-C**: Conecte la computadora principal al mini-KVM usando un cable USB Tipo-C, enchufándolo en el puerto hembra Tipo-C del lado naranja del mini-KVM.
-- **Conexión del Dispositivo Objetivo**:
-    - **Conexión Tipo-C**: Conecte el dispositivo objetivo al mini-KVM usando un cable USB Tipo-C, enchufándolo en el puerto hembra Tipo-C del lado negro del mini-KVM.
-    - **Salida de Video**: Conecte el puerto de salida de video del dispositivo objetivo al puerto hembra HDMI del lado negro del mini-KVM usando un cable HDMI, un cable VGA a HDMI, o cualquier otro cable apropiado de origen de video a HDMI.
+    ---
 
-![vista-angled-del-caso-de-uso-de-la-pc](images/product/use-case-pc-angled-view.jpg)
+    Configura tu Openterface™ Mini-KVM y comienza a controlar tu dispositivo Target
 
-## Compatibilidad con el Dispositivo Objetivo
+    [:octicons-arrow-right-24: Guía de Conexión](/how-to-connect)
 
-No se requiere ninguna instalación previa o configuración en el dispositivo objetivo. Siempre y cuando el dispositivo objetivo admita operaciones de interfaz de usuario con salida de video (HDMI, VGA, por ejemplo) y tenga un puerto USB para recibir señales de control de teclado y ratón emulados (HID), se puede utilizar. Por lo tanto, las plataformas de dispositivos objetivo admitidas incluyen Windows, macOS, Linux, Android e iOS.
+-   :material-open-source-initiative:{ .lg .middle } __Aplicaciones para Host__
 
+    ---
 
-<section class="dialogue-section-white" id="dialogues-section">
-    <div class="container">
-        <div class="callout-button-container">
-            <div class="dialogue-bubble" id="op-bubble">
-                <img src="/images/op-avatar.jpg" alt="Avatar" class="avatar" draggable="false">
-                <p>Leer más 📖</p>
-                <a href="/faq" class="md-button md-button--primary" id="join-waitlist-button">Preguntas frecuentes</a>
-            </div>
-            <div class="dialogue-bubble" id="op-bubble">
-                <img src="/images/op-avatar.jpg" alt="Avatar" class="avatar" draggable="false">
-                <p>¿Pregunta?🤔</p>
-                <a href="https://www.reddit.com/r/Openterface_miniKVM/" class="md-button md-button--primary" id="join-waitlist-button">Preguntar en el Subreddit</a>
-            </div>
-        </div>
-    </div>
-</section>
+    Controla tu dispositivo Target sin problemas con nuestras aplicaciones para Host fáciles de usar
+
+    [:octicons-arrow-right-24: Descargar App para Host](/app)
+
+-   :material-chip:{ .lg .middle } __Hardware Abierto__
+
+    ---
+
+    Explora nuestro compromiso con el hardware de código abierto y la transparencia
+
+    [:octicons-arrow-right-24: Detalles de Hardware Abierto](/open-hardware)
+
+-   :material-frequently-asked-questions:{ .lg .middle } __Casos de Uso y Preguntas Frecuentes__
+
+    ---
+
+    Descubre escenarios ideales para el Openterface™ Mini-KVM y encuentra respuestas a preguntas comunes
+
+    [:octicons-arrow-right-24: Explorar Casos de Uso](/use-cases)
+    
+    [:octicons-arrow-right-24: Ver Preguntas Frecuentes](/faq)
+
+-   :material-compare:{ .lg .middle } __Comparación__
+
+    ---
+
+    Compara cómo el Openterface™ Mini-KVM se mide frente a otras soluciones KVM
+
+    [:octicons-arrow-right-24: ¿Por qué Openterface?](/why-openterface)
+
+    [:octicons-arrow-right-24: Ver Comparación](/comparison)
+
+</div>
