@@ -25,6 +25,7 @@ categories:
 **Categorías:** Premios para los mejores participantes incluyen galardones tanto por habilidad técnica como por creatividad, ¡así que todos tienen una oportunidad!
 
 **Premios Geniales:**
+
 - Un Openterface Mini-KVM de edición limitada con una carcasa transparente y plateada.
 - El futurista Pi-Cast KVM de HackerGadgets.
 - El retro-inspirado GameShell de Clockwork.
