@@ -29,3 +29,10 @@ Los profesionales que gestionan tareas que requieren segregación de red, como l
 Los usuarios que cambian frecuentemente entre ordenadores personales y de trabajo, o aquellos que gestionan dispositivos de computación en el borde, se beneficiarán de la integración de flujos de trabajo simplificada que proporciona el Openterface Mini-KVM.
 
 ![use-case-demo-macbookpro2010](/images/product/use-case-demo-macbookpro2010.jpg)
+
+## ***Control Sin Interrupciones: Mini-KVM + Lápiz de Android = Pura Magia***
+¿Qué tal si pudieras usar tu lápiz de Android para controlar sistemas Windows o macOS directamente en tu tableta Android a través del Openterface MiniKVM? Imagina dibujar diseños, marcar documentos, o navegar software con precisión—todo sin cambiar de dispositivos. ¡Sea una herramienta de diseño gráfico como Photoshop, una aplicación de modelado 3D, o incluso un editor de presentaciones, la experiencia es fluida e intuitiva!
+
+El Mini-KVM desbloquea esta integración sin interrupciones, permitiéndote usar tu tableta Android como un centro para el control entre plataformas. ¿Tienes un software favorito que probarías primero? ¡Háganoslo saber, y manténgase atento para más formas creativas de elevar tu espacio de trabajo!
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="es" dir="ltr">Aquí tienes un video de demostración rápida de nuestra aplicación host Qt ejecutándose en el Pi dentro de este uConsole. <a href="https://t.co/xwrOE9pCcF">pic.twitter.com/xwrOE9pCcF</a></p>&mdash; TechxArtisan (@TechxArtisan) <a href="https://twitter.com/TechxArtisan/status/1872660955768946823?ref_src=twsrc%5Etfw">1 de julio de 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
