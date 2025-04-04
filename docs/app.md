@@ -48,7 +48,7 @@ Para usar este mini-KVM, el ordenador host debe instalar una de las siguientes a
 
     Descarga el APK de Android para teléfono o tableta Android
 
-    [:octicons-download-24: Descargar {{android_version}}](https://github.com/TechxArtisanStudio/Openterface_Android/releases/download/{{android_version}}/OpenterfaceAndroid.apk)  <br>
+    [:octicons-download-24: Descargar {{android_version}}](https://github.com/TechxArtisanStudio/Openterface_Android/releases/download/{{android_version}}/OpenterfaceAndroid-release.apk)  <br>
     [:octicons-mark-github-16: Openterface_Android](https://github.com/TechxArtisanStudio/Openterface_Android)  <br>
     [:octicons-play-24: Watch Demo](https://x.com/TechxArtisan/status/1825460088922071398)
 
