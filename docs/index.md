@@ -1,6 +1,6 @@
 ---
 template: home.html
-title: Inicio
+title: Home
 social:
   cards_layout_options:
     title: Openterface Mini-KVM | Convierte tu portátil en una consola KVM

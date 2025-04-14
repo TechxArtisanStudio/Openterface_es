@@ -1,0 +1,9 @@
+title: Preguntas Frecuentes
+nav:
+    - index.md
+    - Conceptos Básicos de KVM sobre USB:
+        - ¿Qué es KVM USB?: usbkvm/kvm-over-usb.md
+        - ¿Por qué KVM USB Openterface?: usbkvm/openterface.md
+    - Serie Mini-KVM: 
+        - Openterface Mini-KVM: minikvm/op-minikvm.md
+    - Preguntas Frecuentes para Empresas y Medios: business.md
