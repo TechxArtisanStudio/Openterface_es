@@ -55,7 +55,7 @@ Para poner en marcha tus gadgets KVM Openterface™, necesitarás instalar una d
     Dado que todas nuestras aplicaciones son de código abierto, podrías encontrar versiones alternativas de aplicaciones host para dispositivos Openterface creadas por otros. Pueden ser bastante interesantes y ofrecer características adicionales, pero aquí hay un recordatorio amistoso: revisa cuidadosamente sus prácticas de seguridad y privacidad, especialmente porque el control KVM implica eventos de tu pantalla, teclado y ratón. El equipo de Openterface no puede garantizar la seguridad de estas aplicaciones de terceros, así que procede con precaución!
 
 <div class="container">
-    <img src="/images/product/win_qt_app.webp" alt="Imagen del Cartel" class="poster-image-shadow">
+    <img src="/images/product/win_qt_app.webp" alt="Imagen del Cartel" class="poster-image-shadow" loading="lazy">
 </div>
 
 ## Únete a Nuestro Desarrollo
