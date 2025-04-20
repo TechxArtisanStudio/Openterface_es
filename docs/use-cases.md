@@ -19,21 +19,21 @@ El **Openterface Mini-KVM** eleva los flujos de trabajo de TI y transforma la ge
     ---
 
     Ideal para profesionales de TI en centros de datos. Mini-KVM controla múltiples servidores desde una sola laptop, aumentando la eficiencia y reduciendo el tiempo de inactividad.
-    <img src="/images/product/use-case-demo-pc-bios-1.jpg" alt="Demostración de gestión de servidores BIOS" style="max-width: 100%;"/>
+    <img src="https://assets.openterface.com/images/product/use-case-demo-pc-bios-1.jpg" alt="Demostración de gestión de servidores BIOS" style="max-width: 100%;"/>
 
 -   :material-tools:{ .lg } __Configuración Simplificada para Entusiastas de la Tecnología__
 
     ---
 
     Para desarrolladores embebidos que utilizan Raspberry Pi o Jetson Nano, Mini-KVM permite el control directo sin monitores o periféricos adicionales.
-    <img src="/images/product/use-case-demo-respberry-pi.jpg" alt="Demostración de configuración de Raspberry Pi" style="max-width: 100%;"/>
+    <img src="https://assets.openterface.com/images/product/use-case-demo-respberry-pi.jpg" alt="Demostración de configuración de Raspberry Pi" style="max-width: 100%;"/>
 
 -   :material-devices:{ .lg } __Control Unificado para Dispositivos Diversos__
 
     ---
 
     Gestiona máquinas personales/trabajo o hardware especializado (Cajeros automáticos, quioscos, VLTs) desde una sola interfaz—sin más intercambio de cables o teclados.
-    <img src="/images/product/use-case-demo-macmini2009-3.jpg" alt="Control unificado de múltiples dispositivos" style="max-width: 100%;"/>
+    <img src="https://assets.openterface.com/images/product/use-case-demo-macmini2009-3.jpg" alt="Control unificado de múltiples dispositivos" style="max-width: 100%;"/>
 
 -   :material-hospital-building:{ .lg } __Operaciones Seguras para Tareas Sensibles__
 
@@ -47,7 +47,7 @@ El **Openterface Mini-KVM** eleva los flujos de trabajo de TI y transforma la ge
     ---
 
     Cambia sin problemas entre configuraciones personales, de trabajo o de computación en la nube a través de un único flujo de control optimizado.
-    <img src="/images/product/use-case-demo-macbookpro2010.jpg" alt="Integración de flujo de trabajo mixto" style="max-width: 100%;"/>
+    <img src="https://assets.openterface.com/images/product/use-case-demo-macbookpro2010.jpg" alt="Integración de flujo de trabajo mixto" style="max-width: 100%;"/>
 
 -   :material-pencil:{ .lg } __Control Sin Costuras: Mini-KVM + Lápiz Android__
 
