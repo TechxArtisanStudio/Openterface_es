@@ -15,7 +15,7 @@ Estamos comprometidos con el hardware abierto y el software de código abierto, 
 -   Transmite la salida de video del dispositivo objetivo conectado a la pantalla de Android en tiempo real.
 -   Soporta ajustes de imagen para una visualización óptima.
 
-![image](https://assets.openterface.com/images/android/videoConnect.jpg)
+![image](https://assets.openterface.com/images/android/videoConnect.webp)
 
 #### Descripción de la Interfaz de Usuario
 
@@ -63,7 +63,7 @@ Estamos comprometidos con el hardware abierto y el software de código abierto, 
 
 -   Control del ratón relativo (en desarrollo, alternar a través de la configuración cuando esté disponible).
 
-## ![image](https://assets.openterface.com/images/android/mouseThouchMode.jpg)
+## ![image](https://assets.openterface.com/images/android/mouseThouchMode.webp)
 
 ### 3. Entrada de Teclado
 
@@ -89,8 +89,8 @@ Estamos comprometidos con el hardware abierto y el software de código abierto, 
 -   **Teclas Estándar**: 0-9, A-Z, Enter, Espacio, Suprimir.
 
 ![image](https://assets.openterface.com/images/android/enlargeAndKeyBoard.webp)
-![image](https://assets.openterface.com/images/android/keyBoardFunction.jpg)
-![image](https://assets.openterface.com/images/android/keyBoardSystem.jpg)
+![image](https://assets.openterface.com/images/android/keyBoardFunction.webp)
+![image](https://assets.openterface.com/images/android/keyBoardSystem.webp)
 
 ---
 
