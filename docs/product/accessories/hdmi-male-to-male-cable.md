@@ -14,4 +14,4 @@ Este cable HDMI compacto es perfecto para conectar su dispositivo de destino par
 - **Color**: Negro
 - **Uso**: Ideal para la transmisión de video de alta definición desde el dispositivo de destino al Mini-KVM.
 
-<button class="md-button" onclick="window.location.href='https://shop.techxartisan.com/products/hdmi-male-to-male-cable'"> Realizar Pedido <img src="/images/trademark/txa.svg" alt="TxA Shop" style="vertical-align: middle; height: 20px;"></button>
+<button class="md-button" onclick="window.location.href='https://shop.techxartisan.com/products/hdmi-male-to-male-cable'"> Realizar Pedido <img src="https://assets.openterface.com/images/trademark/txa.svg" alt="TxA Shop" style="vertical-align: middle; height: 20px;"></button>
