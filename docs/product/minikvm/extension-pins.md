@@ -7,7 +7,7 @@ keywords: "pines de extensión Mini-KVM, desarrollo personalizado, modificación
 # **Pines de Extensión** | Modo Desarrollador | Mini-KVM Openterface
 
 ![mini-kvm-pins-port](/images/product/mini-kvm-pins-port.png){:style="height:360px"}
-![pin-cap](/images/product/part/pin-cap.jpg){:style="height:300px"}
+![pin-cap](https://assets.openterface.com/images/product/part/pin-cap.jpg){:style="height:300px"}
 
 El Mini-KVM Openterface cuenta con pines de extensión para el desarrollo avanzado y la experimentación con [Software Abierto](/app). Estos pines no están expuestos en la configuración estándar de la carcasa.
 
@@ -48,7 +48,7 @@ Los pines de extensión proporcionan las siguientes conexiones:
 
 ## Tapa de Pines de Extensión
 
-![pin-cap](/images/product/part/pin-cap.jpg){:style="height:360px"}
+![pin-cap](https://assets.openterface.com/images/product/part/pin-cap.jpg){:style="height:360px"}
 
 Esta tapa de pines de extensión impresa en 3D reemplaza la tapa original del Mini-KVM Openterface, permitiendo a los usuarios avanzados exponer y acceder a los pines de extensión para el desarrollo personalizado. Puedes descargar los archivos del modelo 3D de nuestro repositorio de GitHub e imprimir la tapa tú mismo.
 
