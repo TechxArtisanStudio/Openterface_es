@@ -15,7 +15,7 @@ Estamos comprometidos con el hardware abierto y el software de código abierto, 
 -   Transmite la salida de video del dispositivo objetivo conectado a la pantalla de Android en tiempo real.
 -   Soporta ajustes de imagen para una visualización óptima.
 
-![image](../../images/android/videoConnect.jpg)
+![image](https://assets.openterface.com/images/android/videoConnect.jpg)
 
 #### Descripción de la Interfaz de Usuario
 
@@ -29,13 +29,13 @@ Estamos comprometidos con el hardware abierto y el software de código abierto, 
 3. Inicia la aplicación; la transmisión de video aparece automáticamente.
 4. Usa los deslizadores de la barra de herramientas para ajustar el brillo, el contraste o el matiz según sea necesario.
 
-![image](../../images/android/colorSetting.jpg)
+![image](https://assets.openterface.com/images/android/colorSetting.webp)
 
 #### Características Especiales
 
 -   El zoom con dos dedos mejora la visualización
 
-![image](../../images/android/enlargeAndSideBar.jpg)
+![image](https://assets.openterface.com/images/android/enlargeAndSideBar.webp)
 
 ---
 
@@ -63,7 +63,7 @@ Estamos comprometidos con el hardware abierto y el software de código abierto, 
 
 -   Control del ratón relativo (en desarrollo, alternar a través de la configuración cuando esté disponible).
 
-## ![image](../../images/android/mouseThouchMode.jpg)
+## ![image](https://assets.openterface.com/images/android/mouseThouchMode.jpg)
 
 ### 3. Entrada de Teclado
 
@@ -88,9 +88,9 @@ Estamos comprometidos con el hardware abierto y el software de código abierto, 
 -   **Teclas de Función**: F1-F12, Teclas de Símbolo.
 -   **Teclas Estándar**: 0-9, A-Z, Enter, Espacio, Suprimir.
 
-![image](../../images/android/enlargeAndKeyBoard.jpg)
-![image](../../images/android/keyBoardFunction.jpg)
-![image](../../images/android/keyBoardSystem.jpg)
+![image](https://assets.openterface.com/images/android/enlargeAndKeyBoard.webp)
+![image](https://assets.openterface.com/images/android/keyBoardFunction.jpg)
+![image](https://assets.openterface.com/images/android/keyBoardSystem.jpg)
 
 ---
 
