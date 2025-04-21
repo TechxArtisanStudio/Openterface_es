@@ -7,7 +7,7 @@ Este documento proporciona una visión general de un software KVM (Teclado, Vide
 ### Preferencias
 
 El menú de Preferencias permite a los usuarios personalizar la configuración a través de un diálogo con cuatro páginas:<br>
-![Preferences Gernal](https://assets.openterface.com/images/qt/preferenceGernal.png)
+![Preferences Gernal](https://assets.openterface.com/images/qt/preferenceGernal.webp)
 
 -   **General** Esta página configura el filtro de registros de depuración y si se inhabilita o no el protector de pantalla cuando la aplicación está en ejecución. Las categorías de registro incluyen:
 
@@ -18,7 +18,7 @@ El menú de Preferencias permite a los usuarios personalizar la configuración a
 
     Los usuarios pueden elegir guardar los registros en un archivo .txt y habilitar o no el protector de pantalla.<br>
 
-![Preferences Video](https://assets.openterface.com/images/qt/preferenceVideo.png)
+![Preferences Video](https://assets.openterface.com/images/qt/preferenceVideo.webp)
 
 -   **Video** Esta página permite a los usuarios:
 
@@ -28,7 +28,7 @@ El menú de Preferencias permite a los usuarios personalizar la configuración a
 
 -   **Audio** Esta página está actualmente en desarrollo.<br>
 
-![Preferences TargetControl](https://assets.openterface.com/images/qt/preferenceTargetControl.png)
+![Preferences TargetControl](https://assets.openterface.com/images/qt/preferenceTargetControl.webp)
 
 -   **Control del Objetivo** Esta página proporciona opciones para configurar los modos de control para el dispositivo objetivo:
 
@@ -58,15 +58,15 @@ Este menú proporciona opciones para:<br>
 ### Avanzado
 
 El menú Avanzado incluye las siguientes opciones:<br>
-![Advance menu](https://assets.openterface.com/images/qt/menuAdvance.png)
+![Advance menu](https://assets.openterface.com/images/qt/menuAdvance.webp)
 
 -   **Verificación del Entorno:** Verifica si los controladores requeridos para el software están instalados.
 -   **Reiniciar Puerto Serial:** Reinicia el puerto serial.
 -   **Restablecer Teclado y Ratón:** Restablece la configuración del teclado y el ratón.
 -   **Restablecer Chip HID de Fábrica:** Restaura el chip HID a su configuración de fábrica.<br>
-    ![Advance SerialConsole](https://assets.openterface.com/images/qt/advanceSerialConsole.png)
+    ![Advance SerialConsole](https://assets.openterface.com/images/qt/advanceSerialConsole.webp)
 -   **Consola Serial:** Abre una nueva ventana para monitorear todos los mensajes enviados al puerto serial, con filtros para mensajes enviados/recibidos.<br>
-    ![Advance ScriptTool](https://assets.openterface.com/images/qt/advanceScriptTool.png)
+    ![Advance ScriptTool](https://assets.openterface.com/images/qt/advanceScriptTool.webp)
 -   **Herramienta de Script:** Ejecuta scripts de AutoHotkey (AHK). Esta función imita AutoHotkey pero solo admite un subconjunto de funciones de ratón/teclado y capacidades de captura de pantalla. Los scripts afectan al dispositivo objetivo.
 -   **Servidor TCP:** Recibe comandos de AutoHotkey a través de TCP para ejecutarlos en el dispositivo objetivo.
 -   **Actualización de Firmware:** Descarga el último firmware de un servidor remoto, permitiendo a los usuarios elegir si desean flashearlo en el dispositivo.
@@ -85,7 +85,7 @@ El idioma de la interfaz se puede establecer en:
 ### Ayuda
 
 El menú de Ayuda proporciona: <br>
-![Help menu](https://assets.openterface.com/images/qt/menuHelp.png)
+![Help menu](https://assets.openterface.com/images/qt/menuHelp.webp)
 
 -   Enlaces al sitio web oficial y formularios de retroalimentación para problemas de software/hardware.
 -   Información sobre la compra de hardware.
@@ -97,7 +97,7 @@ El menú de Ayuda proporciona: <br>
 
 La barra de menú, de izquierda a derecha, incluye las siguientes funcionalidades:<br>
 
-![MenuBar](https://assets.openterface.com/images/qt/menubar.png)
+![MenuBar](https://assets.openterface.com/images/qt/menubar.webp)
 
 -   Selección de Diseño de Teclado: Elige el diseño del teclado.
 -   Controles de Zoom: Acercar, alejar o restablecer la visualización de la transmisión de video capturada.
