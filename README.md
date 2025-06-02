@@ -1,8 +1,8 @@
-# Openterface Mini-KVM: Docs & Product Site
+# Openterface Mini-KVM: Documentación y productos
 
-![use-case-demo-industrial-pc](docs/images/product/use-case-demo-industrial-pc.jpg)
+![Demonstración-Caso-de-uso-ordenador-industrial](docs/images/product/use-case-demo-industrial-pc.jpg)
 
-Bienvenido al repositorio oficial del **Openterface Mini-KVM** — un gadget KVM USB portátil y plug-and-play para control a nivel de BIOS, solución de problemas local y compartición de archivos, todo sin necesidad de una conexión de red.
+Bienvenido al repositorio oficial del **Openterface Mini-KVM** — un dispositivo KVM USB portátil y *plug-and-play* para control a nivel de BIOS, solución de problemas local e intercambio de archivos, todo sin necesidad de una conexión de red.
 
 > 💡 Este repositorio alimenta el **sitio web oficial del producto Openterface Mini-KVM** a través de GitHub Pages. No está *destinado* como una plantilla para autoalojamiento. En cambio, es el hogar de nuestra documentación, información de cumplimiento, enlaces de descarga de software y otros recursos del producto.
 
@@ -10,17 +10,17 @@ Bienvenido al repositorio oficial del **Openterface Mini-KVM** — un gadget KVM
 
 ## 🌟 ¿Qué es Openterface Mini-KVM?
 
-El **Openterface Mini-KVM** es una solución KVM compacta basada en USB y de código abierto que te permite controlar una computadora objetivo (por ejemplo, un servidor sin cabeza o un sistema embebido) usando tu máquina anfitriona — solo conecta los cables USB y HDMI, no se requiere red ni controladores.
+El **Openterface Mini-KVM** es una solución KVM compacta basada en USB y de código abierto que te permite controlar un ordenador objetivo (por ejemplo, un servidor *headless* o un sistema integrado) usando tu máquina anfitriona — solo conecta los cables USB y HDMI, no se requiere conexión de red ni controladores.
 
 🔧 Diseñado para:
-- Profesionales de TI que gestionan configuraciones sin cabeza
+- Profesionales de IT que gestionan configuraciones headless
 - Desarrolladores que utilizan SBCs como Raspberry Pi
-- Ingenieros de sistemas embebidos
+- Ingenieros de sistemas integrados
 - Cualquiera que necesite **acceso portátil a nivel de BIOS**
 
 📦 Características:
-- Captura HDMI + USB para video, teclado y entrada de mouse
-- Compartición de archivos a través del puerto USB directo
+- Captura HDMI + USB para video, teclado y entrada de ratón
+- Intercambio de archivos a través del puerto USB directo
 - Tiempo de inicio de menos de 1s
 - Aplicación anfitriona multiplataforma (macOS, Windows, Linux, Android)
 - Hardware y software completamente de código abierto
@@ -33,18 +33,18 @@ El **Openterface Mini-KVM** es una solución KVM compacta basada en USB y de có
 
 ## 📲 Descarga la Aplicación Anfitriona
 
-Para usar el Mini-KVM, instala la **aplicación del lado del anfitrión** correspondiente en tu computadora o móvil:
+Para usar el Mini-KVM, instala la **aplicación del lado del anfitrión** correspondiente en tu ordenador o móvil:
 
 - 💻 [Versiones y fuente para Windows, macOS, Linux, Android](https://openterface.com/app/)
-- 📺 [Mira Demos en YouTube](https://youtube.com/@TechxArtisan)
+- 📺 [Mira ejemplos en YouTube](https://youtube.com/@TechxArtisan)
 
-> ⚠️ Todas las aplicaciones son de código abierto y probadas por la comunidad. Ten cuidado al usar bifurcaciones de terceros — las herramientas KVM manejan entradas sensibles.
+> ⚠️ Todas las aplicaciones son de código abierto y probadas por la comunidad. Ten cuidado al usar aplicaciones de terceros — las herramientas KVM manejan entradas sensibles.
 
 ---
 
 ## 🔓 100% Código Abierto y Certificado
 
-Tomamos la apertura en serio. Tanto nuestro hardware como nuestro software son completamente transparentes y certificados.
+Tomamos la cultura libre en serio. Tanto nuestro hardware como nuestro software son completamente transparentes y certificados.
 
 - 📘 [Software Licenciado bajo AGPL-3.0](https://openterface.com/compliance/)
 - 🛠 [Hardware Certificado por OSHWA](https://openterface.com/compliance/)
