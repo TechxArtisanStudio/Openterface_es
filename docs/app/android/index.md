@@ -94,9 +94,9 @@ Estamos comprometidos con el hardware abierto y el software de código abierto, 
 
 ---
 
-Mientras tanto, siéntete libre de explorar nuestro **repositorio de GitHub** de código abierto: [Openterface_Android](https://github.com/TechxArtisanStudio/Openterface_Android) para el código más reciente, actualizaciones, ejemplos y para reportar problemas.
+Mientras tanto, siéntete libre de explorar nuestro **repositorio de GitHub** de código abierto: [Openterface_Android](https://github.com/TechxArtisanStudio/Openterface_Android) para el código más reciente, actualizaciones, ejemplos y para comunicar problemas.
 
-También puedes unirte a nuestra [comunidad de Discord](/discord) para conectarte con nuestro equipo de desarrollo y otros usuarios increíbles para discutir cualquier tema relacionado con KVM.
+También puedes unirte a nuestra [comunidad de Discord](/discord) para contactar con nuestro equipo de desarrollo y otros usuarios increíbles para discutir cualquier tema relacionado con KVM.
 
 Para soporte directo, no dudes en enviarnos un correo electrónico a [support@openterface.com](mailto:support@openterface.com).
 
