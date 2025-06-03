@@ -1,6 +1,6 @@
 # Software
 
-Para poner en marcha tus gadgets KVM Openterface™, necesitarás instalar una de las aplicaciones que se enumeran a continuación en tu computadora host. Puedes obtener estas aplicaciones de diferentes plataformas de aplicaciones o simplemente hacer clic en los enlaces proporcionados. Si te sientes aventurero, también puedes compilarlas desde el código fuente utilizando nuestros repositorios de GitHub!
+Para poner en marcha tus dispositivos KVM Openterface™, necesitarás instalar una de las aplicaciones que se enumeran a continuación en tu ordenador anfitrión. Puedes obtener estas aplicaciones de diferentes plataformas de aplicaciones o simplemente hacer clic en los enlaces proporcionados. Si te sientes aventurero, ¡también puedes compilarlas desde el código fuente utilizando nuestros repositorios de GitHub!
 
 <div class="grid cards" markdown>
 
@@ -51,8 +51,8 @@ Para poner en marcha tus gadgets KVM Openterface™, necesitarás instalar una d
 
 </div>
 
-???+ warning "Atención: Verifica la Privacidad y Seguridad con Aplicaciones de Terceros"
-    Dado que todas nuestras aplicaciones son de código abierto, podrías encontrar versiones alternativas de aplicaciones host para dispositivos Openterface creadas por otros. Pueden ser bastante interesantes y ofrecer características adicionales, pero aquí hay un recordatorio amistoso: revisa cuidadosamente sus prácticas de seguridad y privacidad, especialmente porque el control KVM implica eventos de tu pantalla, teclado y ratón. El equipo de Openterface no puede garantizar la seguridad de estas aplicaciones de terceros, así que procede con precaución!
+!!! Aviso "Atención: Comprueba la Privacidad y Seguridad con Aplicaciones de Terceros"
+    Dado que todas nuestras aplicaciones son de código abierto, podrías encontrar versiones alternativas de aplicaciones anfitrión para dispositivos Openterface creadas por otros. Pueden ser bastante interesantes y ofrecer características adicionales, pero aquí hay un recordatorio amistoso: revisa cuidadosamente sus prácticas de seguridad y privacidad, especialmente porque el control KVM implica eventos de tu pantalla, teclado y ratón. El equipo de Openterface no puede garantizar la seguridad de estas aplicaciones de terceros, ¡así que procede con precaución!
 
 <div class="container">
     <img src="https://assets.openterface.com/images/product/win_qt_app.webp" alt="Imagen del Cartel" class="poster-image-shadow" loading="lazy">
