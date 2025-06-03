@@ -1,7 +1,7 @@
 ---
-title: Preguntas Frecuentes para KVM USB y Openterface
-description: Preguntas frecuentes detalladas sobre nuestro producto insignia Mini-KVM, que cubre especificaciones técnicas, guías de uso y consejos de solución de problemas.
-keywords: KVM USB, Openterface, KVM sobre USB, KVM portátil, KVM plug-and-play, KVM independiente de red, control de dispositivos sin cabeza, soluciones de TI, solución de problemas, productos Openterface
+Título: Preguntas Frecuentes para KVM USB y Openterface
+Descripción: Preguntas frecuentes detalladas sobre nuestro producto insignia Mini-KVM, que cubre especificaciones técnicas, guías de uso y consejos de solución de problemas.
+Palabras clave: KVM USB, Openterface, KVM sobre USB, KVM portátil, KVM plug-and-play, KVM independiente de red, control de dispositivos headless, soluciones de IT, solución de problemas, productos Openterface
 ---
 
 # Preguntas Frecuentes para KVM USB y Openterface
@@ -38,17 +38,17 @@ keywords: KVM USB, Openterface, KVM sobre USB, KVM portátil, KVM plug-and-play,
     Descubre las características y beneficios de nuestra serie Mini-KVM  
 
     [:octicons-arrow-right-24: ¿Qué hace que el Mini-KVM sea nuestro producto insignia?](/faq/minikvm/op-minikvm#flagship-product)  
-    [:octicons-arrow-right-24: ¿Qué computadoras host son compatibles?](/faq/minikvm/op-minikvm#mini-kvm-host-compatibility)  
+    [:octicons-arrow-right-24: ¿Qué computadoras anfitrión son compatibles?](/faq/minikvm/op-minikvm#mini-kvm-host-compatibility)  
     [:octicons-arrow-right-24: ¿Cómo se diferencia esto de otras soluciones KVM?](/faq/minikvm/op-minikvm#mini-kvm-vs-other-kvms)
 
 -   :material-domain:{ .lg } __Soluciones Empresariales y Medios__
 
     ---
 
-    Aprende sobre pedidos al por mayor, oportunidades de revendedores y soluciones KVM personalizadas para empresas  
+    Aprende sobre pedidos al por mayor, oportunidades de distribuidores y soluciones KVM personalizadas para empresas  
 
-    [:octicons-arrow-right-24: Pedidos al por mayor y Programa de Revendedores](/faq/business#bulk-order-reseller)  
-    [:octicons-arrow-right-24: Colaboraciones con Medios e Influencers](/faq/business#media-collaboration)  
+    [:octicons-arrow-right-24: Pedidos al por mayor y Programa de Distribuidores](/faq/business#bulk-order-reseller)  
+    [:octicons-arrow-right-24: Colaboraciones con Medios de Comunicación e Influencers](/faq/business#media-collaboration)  
     [:octicons-arrow-right-24: Soluciones KVM Personalizadas para Empresas](/faq/business#enterprise-kvm)  
 
 </div>
@@ -57,4 +57,4 @@ Esta sección proporciona respuestas a preguntas sobre la tecnología KVM sobre 
 
 ![USB-KMV-Example](https://assets.openterface.com/images/product/use-case-demo-industrial-pc.webp){:style="max-height:320px"}
 
-*USB KVM: Control KVM portátil, plug-and-play e independiente de red para dispositivos sin cabeza*
+*USB KVM: Control KVM portátil, plug-and-play e independiente de red para dispositivos headless*
