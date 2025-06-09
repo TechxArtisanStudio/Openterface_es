@@ -4,9 +4,9 @@ Esta Política de Privacidad se aplica al dispositivo “Openterface” mini-KVM
 
 ## **Recopilación y Uso de Datos**
 
-Estamos comprometidos a proteger su privacidad. Nuestro Servicio no recopila, almacena ni transfiere ningún dato personal en ninguna etapa del uso de nuestra aplicación. Para el funcionamiento efectivo de nuestro Servicio - controlando su computadora de forma remota a través del dispositivo y la aplicación Openterface, requerimos acceso a ciertos tipos de datos no personales:
+Estamos comprometidos a proteger su privacidad. Nuestro Servicio no recopila, almacena ni transfiere ningún dato personal en ninguna etapa del uso de nuestra aplicación. Para el funcionamiento efectivo de nuestro Servicio - controlando su ordnador de forma remota a través del dispositivo y la aplicación Openterface, requerimos acceso a ciertos tipos de datos no personales:
 
-1. **Acceso a la Cámara**: Requerimos permisos de cámara para capturar la transmisión de video de su computadora conectada de forma remota. Esto es esencial para mostrar la transmisión en su dispositivo a través de la aplicación Openterface.
+1. **Acceso a la Cámara**: Requerimos permisos de cámara para capturar la transmisión de video de su ordenador conectado de forma remota. Esto es esencial para mostrar la transmisión en su dispositivo a través de la aplicación Openterface.
 2. **Datos de Eventos de Teclado y Ratón**: Para habilitar las funcionalidades de control remoto, necesitamos permisos para escuchar eventos locales de teclado y ratón. Estos datos se utilizan únicamente para convertir estos eventos en señales de control para el dispositivo objetivo conectado a través de nuestro hardware.
 
 Tenga en cuenta que los datos mencionados anteriormente se consideran no personales, ya que no lo identifican directamente como individuo. Los permisos que solicitamos son necesarios únicamente para habilitar la funcionalidad básica. Los datos tampoco se almacenan ni se transfieren fuera de su dispositivo.
