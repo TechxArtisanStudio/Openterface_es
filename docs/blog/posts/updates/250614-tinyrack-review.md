@@ -9,7 +9,7 @@ keywords: "Openterface, Mini-KVM, TinyRack, Corea del Sur, hardware de código a
 
 ## Una Reseña Reflexiva desde Corea y Nuestros Pensamientos al Respecto
 
-Nos encantan las sorpresas, las buenas por supuesto. Hace unas semanas, nos pusimos en contacto con un YouTuber radicado en Corea del Sur conocido por sus reseñas honestas y técnicamente detalladas. Enviamos un pequeño paquete: un Openterface KVM Ext. para uConsole ([enlace de la tienda](https://shop.techxartisan.com)), más nuestro kit de herramientas mini-KVM para pruebas. Luego, esperamos.
+Nos encantan las sorpresas, las buenas por supuesto. Hace unas semanas, nos pusimos en contacto con un YouTuber radicado en Corea del Sur conocido por sus reseñas honestas y técnicamente detalladas. Enviamos un pequeño paquete: un [Openterface KVM Ext. para uConsole](https://shop.techxartisan.com/products/openterface-kvm-ext-for-uconsole), más nuestro kit de herramientas mini-KVM para pruebas. Luego, esperamos.
 
 Lo que vino después superó nuestras expectativas.
 
