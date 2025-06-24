@@ -21,10 +21,10 @@ El Mini-KVM Openterface cuenta con pines de extensión para el desarrollo avanza
 ![change-cap](https://assets.openterface.com/images/product/change-cap.svg#only-light){:style="height:300px"}
 ![change-cap](https://assets.openterface.com/images/product/change-cap_1.svg#only-dark){:style="height:300px"}
 
-!!! warning "Garantía Nula"
+!!! Advertencia "Garantía Nula"
     Retirar la carcasa original puede anular la garantía del producto. Todas las modificaciones o desmontajes se realizan bajo el propio riesgo del usuario.
 
-!!! note "Características Experimentales"
+!!! Nota "Características Experimentales"
     Las características desarrolladas utilizando estos pines son experimentales y no han sido completamente probadas. Openterface no se hace responsable de ningún daño, lesión o mal funcionamiento resultante de modificaciones, exposición de los pines de extensión u otras alteraciones del dispositivo.
 
 ## Configuración de Pines
@@ -37,13 +37,13 @@ El Mini-KVM Openterface cuenta con pines de extensión para el desarrollo avanza
 Los pines de extensión proporcionan las siguientes conexiones:
 
 1. Suministro de energía USB 5V para componentes externos
-2. Datos positivos al hub USB del host
-3. Datos negativos al hub USB del host
+2. Datos positivos al hub USB del anfitrión
+3. Datos negativos al hub USB del anfitrión
 4. Datos positivos al hub USB del objetivo
 5. Datos negativos al hub USB del objetivo
 6. Tierra
 
-!!! danger "Conexiones Incorrectas Causan Daños"
+!!! Peligro "Conexiones Incorrectas Causan Daños"
     Mezclar VCC y GND puede causar daños severos al dispositivo y a los componentes conectados. Siempre verifica las conexiones de los pines antes de encender el dispositivo.
 
 ## Tapa de Pines de Extensión
