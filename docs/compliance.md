@@ -30,14 +30,14 @@ Nuestros dispositivos Openterface también cumplen con las normas **CE**, **UKCA
 
 ---
 
-## ¡El Hardware Abierto TE Necesita!!!
+## ¡El Hardware Abierto TE NECESITA!
 
-Desarrollar hardware y software verdaderamente de código abierto no es fácil, pero con tu apoyo, podemos seguir empujando los límites.
+Desarrollar hardware y software verdaderamente de código abierto no es fácil, pero con tu apoyo, podemos seguir superando los límites.
 
 Si amas lo que estamos construyendo y quieres ver más de ello en el mundo, aquí tienes cómo puedes ayudar:
 
 - **Compra nuestro hardware**: La forma más directa de apoyarnos es [comprar un dispositivo Openterface](/buy-mini-kvm). Cada venta nos ayuda a seguir innovando.
-- **Consigue algo de equipo**: Muestra tu apoyo con estilo con nuestras **camisetas y sudaderas Openterface**, disponibles ahora en la [tienda TxA](/shop).
+- **Consigue algo de ropa**: Muestra tu apoyo con estilo con nuestras **camisetas y sudaderas Openterface**, disponibles ahora en la [tienda TxA](/shop).
 - **Únete a la misión**: Dirígete a nuestra [guía de contribución](/contributing) para ser parte de nuestro equipo de desarrollo. ¡Programadores, creadores, documentadores, todos son bienvenidos!
 - **Difunde la palabra**: Comparte Openterface con tus amigos, tu equipo técnico o tu comunidad. Haz saber a otros que *hay* una alternativa abierta.
 - **Danos tu opinión**: Nos encanta [escuchar](/feedback) lo que funciona, lo que no, y lo que quieres ver a continuación.
