@@ -2,9 +2,9 @@
 
 ¡Hola, entusiastas de la tecnología!
 
-El tiempo vuela, ¿verdad? Durante el último medio año, hemos estado inmersos en el refinamiento de nuestras [aplicaciones host](/app) para Windows, Linux, macOS y Android. Pensamos que sería un camino suave, pero vaya... el desarrollo de software tenía otras ideas. Una característica se convirtió en otra, luego vinieron los bucles infinitos de pruebas. Pero bueno, seguimos en el juego y avanzando constantemente.
+El tiempo vuela, ¿verdad? Durante el último medio año, hemos estado inmersos en la optimización de nuestras [aplicaciones anfitrión](/app) para Windows, Linux, macOS y Android. Pensamos que sería un camino suave, pero vaya... el desarrollo de software tenía otras ideas. Una característica se convirtió en otra, luego vinieron los bucles infinitos de pruebas. Pero bueno, seguimos en el juego y avanzando constantemente.
 
-Ahora cambiemos de tema y hablemos de algo nuevo. Mientras estábamos ocupados con las aplicaciones, nos tomamos un momento para alejarnos y ver el panorama general. Nuestro objetivo sigue siendo el mismo: ayudar a profesionales de TI, creadores y amantes de la tecnología como tú a realizar el trabajo rápidamente, especialmente cuando trabajas con dispositivos headless en configuraciones impredecibles, donde el tiempo es limitado y el acceso a la red puede ser inestable.
+Ahora cambiemos de tema y hablemos de algo nuevo. Mientras estábamos ocupados con las aplicaciones, nos tomamos un momento para alejarnos y ver el panorama general. Nuestro objetivo sigue siendo el mismo: ayudar a profesionales de IT, creadores y amantes de la tecnología como tú a realizar el trabajo rápidamente, especialmente cuando trabajas con dispositivos headless en configuraciones impredecibles, donde el tiempo es limitado y el acceso a la red puede ser inestable.
 
 Entonces, ¿qué sigue?
 
@@ -16,7 +16,7 @@ Entonces, ¿qué sigue?
 
 **Solo deja tu correo electrónico en este** [Formulario de Google](https://forms.gle/yaS1F5E5MSo8DWNZ6) y recibirás actualizaciones, vistas previas y acceso anticipado a este nuevo dispositivo.
 
-El Openterface Mini-KVM ya es una herramienta KVM-over-USB práctica y portátil. Pero seguimos preguntándonos: ¿cómo podemos hacerlo aún más pequeño y fácil de transportar?
+El Openterface Mini-KVM ya es una herramienta KVM-sobre-USB práctica y portátil. Pero seguimos preguntándonos: ¿cómo podemos hacerlo aún más pequeño y fácil de transportar?
 
 La respuesta es simple: **eliminar el cable de video extra.**
 
@@ -34,7 +34,7 @@ Estamos súper emocionados de mostrarte el primer miembro de la familia Lite:
 
 Y no nos detenemos ahí. Próximamente:
 
-- **Openterface Lite VGA Macho** — Para aquellos que aún trabajan con sistemas legacy confiables.
+- **Openterface Lite VGA Macho** — Para aquellos que aún trabajan con sistemas más antiguos pero confiables.
 
 También podríamos explorar versiones micro-HDMI, mini-HDMI e incluso DisplayPort. No es una prioridad en este momento, pero si necesitas una versión específica, háznoslo saber. En serio, estamos escuchando.
 
@@ -46,7 +46,7 @@ Ahora mismo estamos en fase de pre-lanzamiento. Las cosas aún están en movimie
 
 Como siempre, nos encanta escuchar tus opiniones. ¿Qué piensas? ¿Qué características te gustaría ver? Tus comentarios nos ayudan a construir algo mejor.
 
-Y si tus ideas destacan, una vez que nuestro prototipo esté listo para pruebas beta, invitaremos a algunos de ustedes a unirse a nuestro equipo beta y **convertirse en nuestros cazadores de errores o previsualizadores anticipados**.
+Y si tus ideas destacan, una vez que nuestro prototipo esté listo para pruebas beta, invitaremos a algunos de ustedes a unirse a nuestro equipo beta y **convertirse en nuestros cazadores de errores o probadores anticipados**.
 
 ## Costo y Precio
 
