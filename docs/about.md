@@ -6,9 +6,9 @@
 
 **Openterface** es un nombre nacido de una idea simple pero poderosa:  
 
-- **"Abierto"** representa transparencia, colaboración de código abierto y desbloqueo de sistemas cerrados.  
-- **"Entrar"** sugiere acceso sin interrupciones y diseño inclusivo.  
-- **"Interfaz"** refleja nuestro enfoque en crear interacciones significativas entre las personas y la tecnología.
+- **"Abierto (Open)"** representa transparencia, colaboración de código abierto y desbloqueo de sistemas cerrados.  
+- **"Entrar (Enter)"** sugiere acceso sin interrupciones y diseño inclusivo.  
+- **"Interfaz (Interface)"** refleja nuestro enfoque en crear interacciones significativas entre las personas y la tecnología.
 
 Juntos, representa nuestra misión: crear herramientas abiertas y accesibles que cierren brechas y conecten ideas.
 
@@ -41,7 +41,7 @@ Siéntete libre de navegar en tu preferido:
 ## Soporte Técnico  
 ✉️ **Correo Electrónico:** [support@openterface.com](mailto:support@openterface.com)  
 
-📂 **Reportar Problemas en GitHub:**
+📂 **Comunicar Problemas en GitHub:**
 
 - [Openterface QT](https://github.com/TechxArtisanStudio/Openterface_QT/issues)  
 - [Openterface para MacOS](https://github.com/TechxArtisanStudio/Openterface_MacOS/issues)  
