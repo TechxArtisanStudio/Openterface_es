@@ -1,7 +1,7 @@
 ---
-title: "Openterface Mini-KVM | Solución KVM sobre USB para Control de Computadoras Sin Cabeza"
-description: "Controla tu computadora sin cabeza directamente desde tu laptop usando Openterface Mini-KVM. Una solución KVM sobre USB plug-and-play con soporte HDMI, sin necesidad de red. Perfecto para desarrolladores, profesionales de TI y estaciones de trabajo remotas."
-keywords: "Mini-KVM, KVM sobre USB, KVM sobre IP, control sin cabeza, KVM HDMI, KVM USB, conmutador KVM, consola KVM, adaptador de carrito de choque USB, JetKVM, NanoKVM, KiwiKVM, PiKVM, KVM plug and play, VNC, periféricos de computadora"
+title: "Openterface Mini-KVM | Solución KVM sobre USB para Control de Ordenadores Headless"
+description: "Controla tu ordenador headless directamente desde tu portatil usando Openterface Mini-KVM. Una solución KVM sobre USB plug-and-play con soporte HDMI, sin necesidad de red. Perfecto para desarrolladores, profesionales de IT y estaciones de trabajo remotas."
+keywords: "Mini-KVM, KVM sobre USB, KVM sobre IP, controlheadless, KVM HDMI, KVM USB, conmutador KVM, consola KVM, adaptador de carrito de choque USB, JetKVM, NanoKVM, KiwiKVM, PiKVM, KVM plug and play, VNC, periféricos de computadora"
 
 ---
 
@@ -9,9 +9,9 @@ keywords: "Mini-KVM, KVM sobre USB, KVM sobre IP, control sin cabeza, KVM HDMI, 
 
 ![basic-two-angled](https://assets.openterface.com/images/product/basic-two-angled.webp){:style="max-height:320px"}
 
-Nuestro **Openterface™ Mini-KVM** es una solución **KVM sobre USB** plug-and-play. Te permite controlar una computadora sin cabeza cercana directamente desde tu laptop o escritorio utilizando conexiones USB y HDMI, eliminando la necesidad de periféricos adicionales o conectividad de red. A lo largo de esta documentación, nos referimos a
+Nuestro **Openterface™ Mini-KVM** es una solución **KVM sobre USB** plug-and-play. Te permite controlar un ordenador headless cercano directamente desde tu portatil o escritorio utilizando conexiones USB y HDMI, eliminando la necesidad de periféricos adicionales o conectividad de red. A lo largo de esta documentación, nos referimos a
 
-- Tu laptop o PC de control como ![host-computer](https://assets.openterface.com/images/shell-icons/host-computer.svg#only-light){:style="height:18px"} ![Host](https://assets.openterface.com/images/shell-icons/host.svg#only-light){:style="height:15px"} ![host-computer](https://assets.openterface.com/images/shell-icons/host-computer_1.svg#only-dark){:style="height:18px"} ![Host](https://assets.openterface.com/images/shell-icons/host_1.svg#only-dark){:style="height:15px"}
+- Tu portatil o PC de control como ![host-computer](https://assets.openterface.com/images/shell-icons/host-computer.svg#only-light){:style="height:18px"} ![Host](https://assets.openterface.com/images/shell-icons/host.svg#only-light){:style="height:15px"} ![host-computer](https://assets.openterface.com/images/shell-icons/host-computer_1.svg#only-dark){:style="height:18px"} ![Host](https://assets.openterface.com/images/shell-icons/host_1.svg#only-dark){:style="height:15px"}
 - El dispositivo que se controla como ![target-computer](https://assets.openterface.com/images/shell-icons/target-computer.svg#only-light){:style="height:18px"} ![Target](https://assets.openterface.com/images/shell-icons/target.svg#only-light){:style="height:18px"} ![target-computer](https://assets.openterface.com/images/shell-icons/target-computer_1.svg#only-dark){:style="height:18px"} ![Target](https://assets.openterface.com/images/shell-icons/target_1.svg#only-dark){:style="height:18px"}
 
 <div class="grid cards" markdown>
@@ -34,7 +34,7 @@ Nuestro **Openterface™ Mini-KVM** es una solución **KVM sobre USB** plug-and-
 
     Aprende a configurar y comenzar a controlar tu dispositivo objetivo
 
-    [:octicons-arrow-right-24: Descargar e Instalar la Aplicación Host](/app)
+    [:octicons-arrow-right-24: Descargar e Instalar la Aplicación Anfitrión](/app)
 
     [:octicons-arrow-right-24: Cómo Conectar](/product/minikvm/how-to-connect)
 

@@ -1,10 +1,10 @@
 ---
 title: "Qué Hay en la Caja | 2024"
-description: "Descubre los paquetes del Openterface Mini-KVM - elige entre las opciones Básica y Toolkit. Solución KVM completa con conectividad HDMI, USB-C y accesorios para una gestión de dispositivos sin problemas."
-keywords: "Mini-KVM, conmutador KVM, KVM HDMI, KVM USB, control sin cabeza, periféricos de computadora, kit de herramientas KVM, accesorios KVM, configuración de trabajo remoto, control de múltiples dispositivos"
+description: "Descubre los paquetes del Openterface Mini-KVM - elige entre las opciones Básica y Kit de Herramientas. Solución KVM completa con conectividad HDMI, USB-C y accesorios para una gestión de dispositivos sin problemas."
+keywords: "Mini-KVM, conmutador KVM, KVM HDMI, KVM USB, control headless, periféricos de ordenador, kit de herramientas KVM, accesorios KVM, configuración de trabajo remoto, control de múltiples dispositivos"
 ---
 
-# **Qué Hay en la Caja** | Opciones Básica y Toolkit 2024 | Openterface Mini-KVM
+# **Qué Hay en la Caja** | Opciones Básica y Kit de Herramientas 2024 | Openterface Mini-KVM
 
 
 Explora nuestras dos opciones de compra diseñadas para satisfacer tus necesidades, ya sea que busques lo esencial o un conjunto completo de herramientas.
@@ -16,7 +16,7 @@ Explora nuestras dos opciones de compra diseñadas para satisfacer tus necesidad
 1. Producto Principal: Openterface Mini-KVM
 2. Guía de Inicio Rápido
 
-## Paquete 2: Paquete Toolkit
+## Paquete 2: Paquete Kit de Herramientas
 
 ![toolkit-open](https://assets.openterface.com/images/product/toolkit-open-2024.webp){:style="width:680px"}
 

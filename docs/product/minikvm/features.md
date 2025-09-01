@@ -1,7 +1,7 @@
 ---
 title: "Características y Capacidades"
-description: "Explora las potentes características del Mini-KVM Openterface: acceso a nivel BIOS, soporte de video 4K, compatibilidad multiplataforma y compartición USB. Una visión general completa de las capacidades para el control de computadoras sin cabeza sin necesidad de red."
-keywords: "características Mini-KVM, capacidades del conmutador KVM, acceso a BIOS, control sin cabeza, KVM 4K, compartición USB, KVM multiplataforma, transferencia de texto, KVM plug and play, KVM de código abierto"
+description: "Explora las potentes características del Mini-KVM Openterface: acceso a nivel BIOS, soporte de video 4K, compatibilidad multiplataforma y transferencia de archivos USB. Una visión general completa de las capacidades para el control de ordenadores headless sin necesidad de red."
+keywords: "características Mini-KVM, capacidades del conmutador KVM, acceso a BIOS, control headless, KVM 4K, transferencia USB, KVM multiplataforma, transferencia de texto, KVM plug and play, KVM de código abierto"
 ---
 
 # **Características y Capacidades** | Mini-KVM Openterface
@@ -21,21 +21,21 @@ keywords: "características Mini-KVM, capacidades del conmutador KVM, acceso a B
   Proporciona acceso directo al BIOS, firmware o gestión de inicio del dispositivo objetivo.
 
 - **Independencia de Red**  
-  Ofrece control estable y rápido, sin cabeza, utilizando captura de video HDMI y entrada emulada de teclado/rato (HID). No se requiere conexión de red.
+  Ofrece control estable y rápido, headless, utilizando captura de video HDMI y entrada emulada de teclado/ratón (HID). No se requiere conexión de red.
 
 - **Salida Full HD con Baja Latencia y Entrada 4K**  
-  Soporta mostrar hasta 1920×1080 @ 30 Hz en la aplicación host con menos de 140 ms de latencia, mientras captura la entrada de video del objetivo a hasta 4K. También es compatible con VGA, Micro HDMI, DVI y otras entradas a través de adaptadores. Para más detalles, visita nuestra página de [especificaciones](specifications).
+  Soporta mostrar hasta 1920×1080 @ 30 Hz en la aplicación anfitrión con menos de 140 ms de latencia, mientras captura la entrada de video del objetivo a hasta 4K. También es compatible con VGA, Micro HDMI, DVI y otras entradas a través de adaptadores. Para más detalles, visita nuestra página de [especificaciones](specifications).
 
 - **Puerto USB Tipo-A Conmutable**  
-  Alterna el acceso USB entre el host y el objetivo para compartir una unidad USB sin necesidad de volver a enchufar. Aprende más en la página del [Puerto USB Conmutable](../usb-switch).
+  Alterna el acceso USB entre el anfitrión y el objetivo para compartir una unidad USB sin necesidad de volver a enchufar. Aprende más en la página del [Puerto USB Conmutable](../usb-switch).
 
-- **Aplicación Host en Todas las Plataformas**  
-  Nuestras [aplicaciones host](/app) son compatibles con macOS, Windows, Linux y Android, asegurando una integración fluida y un rendimiento óptimo.
+- **Aplicación Anfitrión en Todas las Plataformas**  
+  Nuestras [aplicaciones anfitrión](/app) son compatibles con macOS, Windows, Linux y Android, asegurando una integración fluida y un rendimiento óptimo.
 
 - **Transferencia de Texto**  
-  Transmite texto sin esfuerzo desde la computadora host al dispositivo objetivo simulando pulsaciones de teclas. Esta función es particularmente útil para ingresar rápidamente nombres de usuario, contraseñas o fragmentos de código. Soporta una amplia gama de caracteres ASCII, incluidos símbolos, puntuación y caracteres no alfanuméricos, asegurando versatilidad en la entrada de texto.
+  Transmite texto sin esfuerzo desde el ordenador anfitrión al dispositivo objetivo simulando pulsaciones de teclas. Esta función es particularmente útil para introducir rápidamente nombres de usuario, contraseñas o fragmentos de código. Soporta una amplia gama de caracteres ASCII, incluidos símbolos, puntuación y caracteres no alfanuméricos, asegurando versatilidad en la entrada de texto.
 
-!!! warning "Limitaciones de la Función de Transferencia de Texto"
+!!! Advertencia "Limitaciones de la Función de Transferencia de Texto"
     - **Sin Integración de Portapapeles**  
       Esta funcionalidad solo emula la escritura; no facilita la transferencia de contenido no textual, como imágenes o documentos formateados.
 
@@ -52,7 +52,7 @@ keywords: "características Mini-KVM, capacidades del conmutador KVM, acceso a B
   Compacto y ligero, perfecto para profesionales que necesitan trabajar en varios sistemas mientras están en movimiento.
 
 - **Integración de Audio**  
-  Captura y reproduce audio del dispositivo objetivo directamente en la computadora host.
+  Captura y reproduce audio del dispositivo objetivo directamente en el ordenador anfitrión.
 
 - **Pines de Extensión para un Desarrollo Adicional**  
   El Mini-KVM Openterface incluye [pines de extensión](../extension-pins) que permiten un desarrollo y experimentación avanzados. Estos pines permiten a los usuarios explorar nuevas funcionalidades y personalizar su dispositivo para necesidades específicas.

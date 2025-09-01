@@ -1,16 +1,16 @@
 ---
 title: "Qué Hay en la Caja"
-description: "Descubre los paquetes del Openterface Mini-KVM - elige entre las opciones Básica y Toolkit. Solución KVM completa con conectividad HDMI, USB-C y accesorios para una gestión de dispositivos sin problemas."
-keywords: "Mini-KVM, conmutador KVM, KVM HDMI, KVM USB, control sin cabeza, periféricos de computadora, kit de herramientas KVM, accesorios KVM, configuración de trabajo remoto, control de múltiples dispositivos"
+description: "Descubre los paquetes del Openterface Mini-KVM - elige entre las opciones Básica y Kit de Herramientas. Solución KVM completa con conectividad HDMI, USB-C y accesorios para una gestión de dispositivos sin problemas."
+keywords: "Mini-KVM, conmutador KVM, KVM HDMI, KVM USB, control headless, periféricos de ordenador, kit de herramientas KVM, accesorios KVM, configuración de trabajo remoto, control de múltiples dispositivos"
 ---
 
-# **Qué Hay en la Caja** | Opciones Básica y Toolkit | Openterface Mini-KVM
+# **Qué Hay en la Caja** | Opciones Básica y Kit de Herramientas | Openterface Mini-KVM
 
 Explora nuestras dos opciones de compra diseñadas para satisfacer tus necesidades, ya sea que busques lo esencial o un conjunto completo de herramientas.
 
 ---
 
-## 1. Mini-KVM **Toolkit**
+## 1. Mini-KVM **Kit de Herramientas**
 
 ![toolkit-open](https://assets.openterface.com/images/product/toolkit-open.webp){:style="width:680px"}
 
