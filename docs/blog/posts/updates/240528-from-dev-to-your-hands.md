@@ -13,7 +13,7 @@ Estamos de vuelta con otra actualización sobre nuestra campaña de crowdfunding
 
 ### Alcanzando un Hito Importante
 
-Primero que nada, estamos absolutamente encantados de anunciar que hemos alcanzado un asombroso [**1100% de nuestra meta de financiamiento original**](https://www.crowdsupply.com/techxartisan/openterface-mini-kvm)! Un enorme agradecimiento a cada uno de ustedes. ¡Su apoyo ha sido simplemente fenomenal!
+Antes de nada, estamos absolutamente encantados de anunciar que hemos alcanzado un asombroso [**1100% de nuestra meta de financiación original**](https://www.crowdsupply.com/techxartisan/openterface-mini-kvm)! Un enorme agradecimiento a cada uno de ustedes. ¡Su apoyo ha sido simplemente fenomenal!
 
 ### Planificación de Producción
 
@@ -33,17 +33,17 @@ Nos sentimos muy positivos sobre esta asociación y su entusiasmo por apoyar a u
 
 Siempre estamos buscando formas de mejorar, y nuestro cable adicional **VGA a HDMI** ahora ha sido mejorado a 1 metro de largo con mayor calidad, como pueden ver en nuestra [actualización de la Semana 2](https://www.crowdsupply.com/techxartisan/openterface-mini-kvm/updates/our-vga-to-hdmi-cable-is-now-available-to-european-backers-and-its-a-full-meter-long).
 
-A continuación, también estamos investigando nuestro **cable Type-C de 1.5 metros de largo** para conectar a la computadora anfitriona. El Type-C se está volviendo cada vez más común en nuevas computadoras, laptops e incluso servidores. Después de probar muchos fabricantes, encontramos uno que podría producir este elegante cable Type-C naranja con una agradable sensación de silicona que cumple con nuestros estándares de calidad.
+A continuación, también estamos investigando nuestro **cable Tipo-C de 1.5 metros de largo** para conectar al ordenador anfitrión. El Tipo-C se está volviendo cada vez más común en nuevos ordenadores, portátiles e incluso servidores. Después de probar muchos fabricantes, encontramos uno que podría producir este elegante cable Tipo-C naranja con un agradable tacto de silicona que cumple con nuestros estándares de calidad.
 
-Actualmente, **se requiere un adaptador adicional de Type-C a USB-A** si nuestro Mini-KVM funciona con una computadora anfitriona que solo tiene puertos USB-A.
+Actualmente, **se requiere un adaptador adicional de Tipo-C a USB-A** si nuestro Mini-KVM funciona con un ordenador anfitrión que solo tiene puertos USB-A.
 
 ![typec-cable-need-adapter| link](https://www.crowdsupply.com/img/36a3/64ccc024-68b8-4d04-9ea9-ae21223136a3/typec-cable-need-adapter_jpg_gallery-lg.jpg)
 
-Sabemos que es un poco molesto, por lo que estamos trabajando estrechamente con nuestro fabricante para mejorarlo integrando un adaptador adjunto de Type-C a USB-A. Aquí hay un prototipo de cómo podría verse.
+Sabemos que es un poco molesto, por lo que estamos trabajando estrechamente con nuestro fabricante para mejorarlo integrando un adaptador de Tipo-C a USB-A. Aquí hay un prototipo de cómo podría ser.
 
 ![upgrade-for-typ-c-cable-with-adapter](https://www.crowdsupply.com/img/6863/e9fba3f2-004f-465b-afde-29bacc236863/upgrade-for-typ-c-cable-with-adapter_png_md-xl.jpg)
 
-Este elegante cable naranja, con una buena sensación de silicona y 1.5 metros de largo, presenta conectores Type-C en ambos extremos e incluye un adaptador para convertir un extremo de Type-C a USB-A. No existe en el mercado y requiere nuestra producción OEM personalizada. Estamos apuntando a incluir esta solución en nuestro paquete final de herramientas para los patrocinadores, pero todavía estoy haciendo cálculos y dándole un buen uso a mi calculadora. Para que esto suceda, **necesitamos más apoyo para reducir el costo total de producción** de nuestro kit de herramientas mini-KVM. Dado el número actual de crowdfunding y los costos de producción, hacer este cable Type-C personalizado se está volviendo más factible, ya que se está acercando al punto de equilibrio. ¡Mantendré a todos actualizados en la comunidad de Openterface sobre cualquier progreso!
+Este elegante cable naranja, con un buen tacto de silicona y 1.5 metros de largo, presenta conectores Tipo-C en ambos extremos e incluye un adaptador para convertir un extremo de Tipo-C a USB-A. No existe en el mercado y requiere nuestra producción OEM personalizada. Estamos planeando incluir esta solución en nuestro kit final de herramientas para los patrocinadores, pero todavía estoy haciendo cálculos y dándole un buen uso a mi calculadora. Para que esto suceda, **necesitamos más apoyo para reducir el coste total de producción** de nuestro kit de herramientas mini-KVM. Dado el número actual de crowdfunding y los costes de producción, hacer este cable Tipo-C personalizado se está volviendo más viable, ya que se está acercando al punto de equilibrio. ¡Mantendré a todos actualizados en la comunidad de Openterface sobre cualquier progreso!
 
 Por su parte, si encuentran nuestro proyecto prometedor y creen que el Mini-KVM puede hacer su vida tecnológica más fácil, consideren apoyarnos y difundir la palabra a sus amigos. ¡Asegurémonos de poder mejorar el producto aún más mientras lo mantenemos asequible para todos en esta campaña de crowdfunding! ¡Muchas gracias!
 
@@ -56,7 +56,7 @@ Por favor, tengan paciencia con nosotros durante esta etapa temprana de desarrol
 - [Aplicación para Unirse al Equipo Beta Ronda 2](https://www.reddit.com/r/Openterface_miniKVM/comments/1cpcowl/make_your_mark_join_our_round_2_beta_testing_crew/) el 11 de mayo de 2024
 - [Actualización sobre Aplicaciones para el Equipo Beta Ronda 2](https://www.reddit.com/r/Openterface_miniKVM/comments/1cxr3zp/update_for_our_beta_test_applicants_round_2/) el 22 de mayo de 2024
 
-Como pueden ver en las publicaciones anteriores, recibimos un número abrumador de aplicaciones fantásticas en las Rondas 1 y 2, y fue un verdadero desafío reducir los candidatos de un grupo tan brillante. ¡Tuvimos que tomar decisiones difíciles debido a los lugares limitados disponibles en esta fase exclusiva!
+Como pueden ver en las publicaciones anteriores, recibimos un número abrumador de aplicaciones fantásticas en las Rondas 1 y 2, y fue un verdadero desafío reducir los candidatos de un grupo tan brillante. ¡Tuvimos que tomar decisiones difíciles debido a las limitadas plazas disponibles en esta fase exclusiva!
 
 Nuestro equipo beta es una colaboración excepcional y verdaderamente global, con miembros de EE. UU. 🇺🇸, Reino Unido 🇬🇧, Japón 🇯🇵, Alemania 🇩🇪, República Checa 🇨🇿, Noruega 🇳🇴, Bélgica 🇧🇪, Francia 🇫🇷, Austria 🇦🇹, Australia 🇦🇺, Polonia 🇵🇱, Países Bajos 🇳🇱, China 🇨🇳, y más que se unirán pronto. Estos testers aportan experiencia en desarrollo, casos de uso reales para el Openterface Mini-KVM y una pasión por apoyar proyectos de código abierto como el nuestro. Nuestro equipo beta ya está utilizando este práctico dispositivo en sus tareas diarias, planteando problemas y sugiriendo características para que podamos mejorar aún más.
 
@@ -66,7 +66,7 @@ Aquí están las actualizaciones sobre nuestro repositorio de código abierto en
 
 #### [**Openterface_MacOS**](https://github.com/TechxArtisanStudio/Openterface_MacOS)
 
-Nuestra aplicación anfitriona Openterface MacOS ya está oficialmente en vivo en la **Apple App Store**. Solo busquen 'Openterface' o 'mini-KVM' para encontrar nuestra página de la aplicación. Aún mejor, hemos subido el código completo a nuestro repositorio de GitHub: Openterface_MacOS para el Mini-KVM. Pueden ver esta [demostración de operación básica](/basic-testing/) en **MacOS**.
+Nuestra aplicación anfitriona Openterface MacOS ya está oficialmente disponible en la **Apple App Store**. Solo busquen 'Openterface' o 'mini-KVM' para encontrar nuestra página de la aplicación. Aún mejor, hemos subido el código completo a nuestro repositorio de GitHub: Openterface_MacOS para el Mini-KVM. Pueden ver esta [demostración de operación básica](/basic-testing/) en **MacOS**.
 
 ![openterface-macos-app-store](https://www.crowdsupply.com/img/1c9c/f855deb7-a88e-415b-a826-f360e6d41c9c/openterface-macos-app-store_png_md-xl.jpg)
 
@@ -78,9 +78,9 @@ QT es un marco versátil que nos encanta, así que construimos nuestro mini-KVM 
   
 ![openterface-win-app-demo-2](https://www.crowdsupply.com/img/373b/48737a7e-7793-49c1-9efc-a284d1ae373b/openterface-win-app-demo-2_jpg_gallery-lg.jpg)
 
-En cuanto a los sistemas basados en Linux, empaquetar para diferentes arquitecturas como ARM32, ARM64, ARMv7 y ARMv8, especialmente para el **Raspberry Pi**, es todo un desafío (con horas y horas de espera para el empaquetado), pero estamos trabajando en ello. Esperen una demostración de Linux pronto, con suerte dentro de una semana.
+En cuanto a los sistemas basados en Linux, empaquetar para diferentes arquitecturas como ARM32, ARM64, ARMv7 y ARMv8, especialmente para **Raspberry Pi**, es todo un desafío (con horas y horas de espera para el empaquetado), pero estamos trabajando en ello. Esperen una demostración de Linux pronto, con suerte dentro de una semana.
 
-Ahora, hemos subido todo nuestro código fresco para Openterface_QT en GitHub. ¡Sumérjanse y echen un vistazo, pero prepárense, todavía está en las primeras etapas de desarrollo, por lo que aún hay algunos inevitables problemas y trabajo por hacer para mejorarlo. No nos importaría una mano. Si eres desarrollador, únete a nosotros. ¡Feliz codificación!
+Ahora, hemos subido todo nuestro código fresco para Openterface_QT en GitHub. ¡Sumérjanse y echen un vistazo, pero prepárense, todavía está en las primeras etapas de desarrollo, por lo que aún hay algunos inevitables problemas y trabajo por hacer para mejorarlo. No nos importaría algo de ayuda. Si eres desarrollador, únete a nosotros. ¡Feliz codificación!
 
 ####  **[Openterface_Android](https://github.com/TechxArtisanStudio/Openterface_Android) y [Openterface_WebExtension](https://github.com/TechxArtisanStudio/Openterface_WebExtension)**
 
@@ -100,7 +100,7 @@ Mientras tanto, pueden aprender más sobre nuestro hardware aquí: [hoja de dato
 
 #### ¡Por favor, tengan paciencia!
 
-Estamos trabajando arduamente aquí y en el proceso de **liberar tanto nuestro software como hardware como código abierto**. ¡Las cosas buenas toman tiempo en cocinarse! Los mantendremos actualizados sobre este progreso dentro de nuestra comunidad. ¡Gracias por su paciencia y comprensión! ¡Manténganse atentos y saludos!
+Estamos trabajando arduamente aquí y en el proceso de **liberar tanto nuestro software como hardware como código abierto**. ¡Las cosas buenas tardan tiempo en cocinarse! Los mantendremos actualizados sobre este progreso dentro de nuestra comunidad. ¡Gracias por su paciencia y comprensión! ¡Manténganse atentos y saludos!
 
 ### Abordando Preocupaciones
 
@@ -109,7 +109,7 @@ Entendemos que algunas personas pueden ser *escépticas*, dado el número de pro
 1. **Confíen en la Plataforma Crowd Supply:** Esta es *una de las principales plataformas de crowdfunding para productos electrónicos* en los EE. UU. **desde 2012**. El equipo de Crowd Supply ha estado supervisando de cerca nuestro progreso de desarrollo del Openterface Mini-KVM y ofreciéndonos asesoramiento profesional para asegurarse de que lo que hemos estado creando sea justo para ustedes. ¡Un agradecimiento al equipo de Crowd Supply también! Además, pueden leer más sobre cómo se protegen sus derechos como patrocinadores en la plataforma Crowd Supply, incluyendo para nuestro proyecto: [Guía de Crowd Supply: ¿Cómo están protegidos los patrocinadores?](https://www.crowdsupply.com/guide/backer-protection)
     > "Cada proyecto que ha recibido fondos a través de Crowd Supply ha entregado a sus patrocinadores (o está en camino de hacerlo). No están financiando el sueño de alguien; en Crowd Supply, están comprando un producto real."
 
-2. **Confíen en la Experiencia de Nuestro Equipo:** Somos un grupo de desarrolladores versátiles, creadores hábiles y gerentes de proyectos y producción experimentados, especialmente en trabajos que involucran una combinación de desarrollo de hardware y software. Somos un estudio creativo tecnológico innovador con *más de seis años de experiencia en proyectos tecnológicos avanzados* en campos como IoT, IA, computación en el borde y arte tecnológico. Para saber más sobre nosotros, visiten nuestro sitio web [TechxArtisan Studio](https://techxartisan.com/en/).
+2. **Confíen en la Experiencia de Nuestro Equipo:** Somos un grupo de desarrolladores versátiles, creadores hábiles y gerentes de proyectos y producción experimentados, especialmente en trabajos que involucran una combinación de desarrollo de hardware y software. Somos un estudio creativo tecnológico innovador con *más de seis años de experiencia en proyectos tecnológicos avanzados* en campos como IoT, IA, edge computing y arte tecnológico. Para saber más sobre nosotros, visiten nuestro sitio web [TechxArtisan Studio](https://techxartisan.com/en/).
 
 3. **Confíen en la Cultura de Nuestro Equipo:** Nuestro equipo está dedicado no solo a la excelencia técnica, sino también a la experiencia general del usuario. Esto incluye todo, desde la documentación del usuario y del desarrollador hasta la estética del diseño. Nos apasiona la tecnología de vanguardia y frecuentemente participamos en discusiones animadas sobre nuevos avances desde diversas perspectivas. Estos debates nos ayudan a definir qué hace que un producto electrónico sea sobresaliente y cómo darle vida a través de nuestro trabajo en equipo. Este enfoque colaborativo asegura que nuestros productos mejoren la experiencia del usuario y demuestren nuestra dedicación a la calidad y el detalle. Además, abrazamos una cultura de código abierto y colaboración comunitaria.
 
@@ -117,7 +117,7 @@ Entendemos que algunas personas pueden ser *escépticas*, dado el número de pro
 
 5. **Chateen con Nosotros Directamente:** Si tienen alguna pregunta o inquietud sobre nuestro Mini-KVM, no duden en enviarme un correo electrónico a info@techxartisan.com. Además, estamos planeando una transmisión en vivo, presentada por [**David Groom de MAKE: Magazine**](https://www.youtube.com/@MAKE/streams) el miércoles 29. Estaremos discutiendo nuestro Openterface Mini-KVM y la historia detrás de él. Publicaré el video más tarde en nuestra página de la comunidad.
 
-Finalmente, entendemos totalmente si aún tienen dudas. ¡Está bien! Si su trabajo implica gestionar dispositivos sin cabeza, estamos seguros de que nuestros esfuerzos en la creación del Openterface Mini-KVM eventualmente los convencerán. ¡Esperen y verán! 😄
+Finalmente, entendemos totalmente si aún tienen dudas. ¡Está bien! Si su trabajo implica gestionar dispositivos headless, estamos seguros de que nuestros esfuerzos en la creación del Openterface Mini-KVM los convencerán. ¡Esperen y verán! 😄
 
 ### ¿Qué Sigue?
 
