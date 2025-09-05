@@ -34,7 +34,7 @@ Aquí hay **una apuesta divertida** que tenemos en nuestro equipo:
 
 Actualmente, tenemos alrededor de 950 patrocinadores para nuestro proyecto. Kevin Peng, nuestro director técnico, y yo tenemos una apuesta. Si logramos **conseguir 100 patrocinadores más** en las últimas horas, los gastos de mi viaje a Portland serán cubiertos por nuestro estudio. Si no, tendré que pagar yo mismo, lo que significa unos cuantos miles de dólares de mi propio bolsillo.
 
-Así que, hago un llamado a todos nuestros suscriptores y nuevos amigos del Mini-KVM de Openterface para que nos ayuden a superar estas últimas horas. ¡Vamos a alcanzar más de 1050 patrocinadores y hacer que este viaje suceda!
+Así que, hago un llamamiento a todos nuestros suscriptores y nuevos amigos del Mini-KVM de Openterface para que nos ayuden a superar estas últimas horas. ¡Vamos a alcanzar más de 1050 patrocinadores y hacer que este viaje suceda!
 
 Lo más importante, por favor **ayuden a correr la voz** sobre nuestra campaña que está llegando a su fin. Estamos comprometidos a construir este dispositivo útil y asegurarnos de que se entregue a ustedes con la mejor calidad.
 

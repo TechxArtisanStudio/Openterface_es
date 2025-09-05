@@ -28,9 +28,9 @@ categories:
 
 - Un Openterface Mini-KVM de edición limitada con una carcasa transparente y plateada.
 - El futurista Pi-Cast KVM de HackerGadgets.
-- El retro-inspirado GameShell de Clockwork.
+- El dispositivo retro GameShell de Clockwork.
 
-**Cronograma:** El desafío comienza el 1 de octubre de 2024 y las presentaciones cierran el 28 de febrero de 2025.
+**Cronograma:** El desafío comienza el 1 de octubre de 2024 y el plazo para presentar el proyecto termina el 28 de febrero de 2025.
 
 **Jueces:** Expertos de TechxArtisan, Make: Magazine, OSHWA y Crowd Supply evaluarán tus proyectos.
 
@@ -52,13 +52,13 @@ Aquí tienes un vistazo al arduo trabajo que se realiza tras bambalinas—¡nues
 
 ![Imagen del progreso de producción](../pic/241022-5.webp)
 
-Nuestro control de calidad es de primera categoría. Cada unidad es revisada, revisada nuevamente y mimada por nuestro equipo para asegurarnos de que cuando llegue a tus manos, no solo sea buena, ¡sino excelente! Apuntamos a la clase de calidad que hace que otros dispositivos se pongan verdes de envidia.
+Nuestro control de calidad es de primera categoría. Cada unidad es revisada, revisada nuevamente y mimada por nuestro equipo para asegurarnos de que cuando llegue a tus manos, no solo sea buena, ¡sino excelente! Apuntamos a la clase de calidad que hace que otros dispositivos se mueran de envidia.
 
 Sabemos que esperar puede ser difícil, pero estamos comprometidos a ofrecer la mejor experiencia posible. ¡Gracias por tu paciencia mientras ponemos los toques finales!
 
 ## Actualización de Software: ¡La Aplicación de Android Recibe una Gran Mejora!
 
-Nuestra aplicación de Android acaba de recibir una gran actualización. ¡Ahora controlar tus dispositivos objetivo a través de tu teléfono o tableta nunca ha sido tan fácil o divertido!
+Nuestra aplicación de Android acaba de recibir una gran actualización. ¡Ahora controlar tus dispositivos objetivo a través de tu teléfono o tablet nunca ha sido tan fácil o divertido!
 
 Mira el video de demostración aquí: [Video de Demostración de la Aplicación de Android](https://x.com/TechxArtisan/status/1840587612148699398)
 
@@ -70,7 +70,7 @@ Mira el video de demostración aquí: [Video de Demostración de la Aplicación 
 - Toques precisos para una experiencia intuitiva
 - Una nueva barra de teclas de función para mayor comodidad
 - Próxima función: atajos de teclado personalizables
-- Compatible con tabletas y teléfonos Android
+- Compatible con tablets y teléfonos Android
 
 Esta aplicación hace que el Openterface Mini-KVM sea aún más útil para los profesionales de la tecnología en movimiento. ¡También hemos subido el último APK y el código fuente a nuestro repositorio de GitHub si quieres explorar más o contribuir!
 
