@@ -6,11 +6,11 @@ categories:
   - Updates
 ---
 
-# Charla Casual con David Groom de MAKE: Magazine: La Historia del Openterface Mini-KVM
+# Charla casual con David Groom de MAKE: Magazine: La Historia del Openterface Mini-KVM
 
 ¡Hola a todos!
 
-Acabamos de terminar una increíble [transmisión en vivo en YouTube](https://www.youtube.com/live/lwitzvmxsgc?si=s9a1t5_Sce5v22e1) con David Groom de MAKE: Magazine. Durante la sesión, profundizamos en la historia detrás de nuestro Openterface Mini-KVM, una innovadora solución de hardware de código abierto diseñada para controlar fácilmente dispositivos sin pantalla y computadoras de placa única como las Raspberry Pi, usando solo tu laptop. Puedes ver la transmisión en YouTube para más detalles o simplemente leer la historia a continuación.
+Acabamos de terminar una increíble [transmisión en vivo en YouTube](https://www.youtube.com/live/lwitzvmxsgc?si=s9a1t5_Sce5v22e1) con David Groom de MAKE: Magazine. Durante la sesión, profundizamos en la historia detrás de nuestro Openterface Mini-KVM, una innovadora solución de hardware de código abierto diseñada para controlar fácilmente dispositivos sin pantalla y computadoras de placa única como las Raspberry Pi, usando solo tu portátil. Puedes ver la transmisión en YouTube para más detalles o simplemente leer la historia a continuación.
 
 ![youtube-with-david-2](https://www.crowdsupply.com/img/2b83/081f1376-b266-4e83-b1af-5628dbe62b83/youtube-with-david_jpg_gallery-lg.jpg)
 
@@ -24,13 +24,13 @@ El viaje del Mini-KVM comenzó en la bulliciosa ciudad de Guangzhou, China, dent
 Un desafío recurrente en nuestro trabajo era gestionar una gran cantidad de computadoras sin pantalla como las Raspberry Pi y Jetson Nano, que carecían de monitores, teclados o conectividad de red. Esto a menudo nos llevaba a buscar frenéticamente monitores y teclados de repuesto para solucionar problemas y acceder a estos dispositivos en condiciones difíciles.
 
 ### Soluciones Improvisadas
-Inicialmente, recurrimos a soluciones improvisadas de monitores portátiles alimentados por baterías y mini-teclados inalámbricos con touchpads. Sin embargo, estos a menudo se olvidaban o se extraviaban, lo que nos llevó a la necesidad de una solución de hardware dedicada que pudiera aprovechar las laptops que siempre llevábamos para programar y configurar.
+Inicialmente, recurrimos a soluciones improvisadas de monitores portátiles alimentados por baterías y mini-teclados inalámbricos con touchpads. Sin embargo, estos a menudo se olvidaban o se perdíían, lo que nos llevó a la necesidad de una solución de hardware dedicada que pudiera aprovechar los portátiles que siempre llevábamos para programar y configurar.
 
 ![diy-monitor-keyboard](https://www.crowdsupply.com/img/2efd/4459eff9-2d01-4552-ac91-a1941ed82efd/diy-monitor-keyboard_jpg_gallery-lg.jpg)
 *Estos dos gadgets deben llevarse para proyectos en el sitio.*
 
 ### El Primer Prototipo
-Nuestro primer prototipo DIY fue una combinación simple pero efectiva de una tarjeta de captura para recuperar video del dispositivo sin pantalla y un simulador de teclado/ratón USB, todo integrado en un solo cable USB que se conectaba a nuestras laptops.
+Nuestro primer prototipo DIY fue una combinación simple pero efectiva de una tarjeta de captura para recuperar video del dispositivo sin pantalla y un simulador de teclado/ratón USB, todo integrado en un solo cable USB que se conectaba a nuestros portátiles.
 
 ![/early-mini-kvm-pcb](https://www.crowdsupply.com/img/1f7e/fb91d879-dee7-45cc-bbdc-dc3ea5731f7e/early-mini-kvm-pcb_jpg_gallery-lg.jpg)
 *Una de las primeras versiones del PCB del mini-KVM*
@@ -41,13 +41,13 @@ Mostramos nuestros geniales proyectos de arte tecnológico en la Maker Faire de 
 *¡Las pegatinas y postales de MAKE: Magazine son realmente geniales!*
 
 ## Retroalimentación y Desarrollo de la Comunidad
-Después de compartir nuestro prototipo en Reddit, recibimos comentarios invaluables de [la comunidad](http://openterface.com/community/#community-contributors), que nos animaron a refinar y desarrollar nuestra solución en un producto pulido. Este apoyo comunitario fue fundamental para transformar nuestro dispositivo improvisado en una herramienta elegante y eficiente para homelabbers, administradores de sistemas, entusiastas de la tecnología y cualquier persona que trabaje con computadoras sin pantalla.
+Después de compartir nuestro prototipo en Reddit, recibimos comentarios muy valiosos de [la comunidad](http://openterface.com/community/#community-contributors), que nos animaron a refinar y desarrollar nuestra solución en un producto pulido. Este apoyo comunitario fue fundamental para transformar nuestro dispositivo improvisado en una herramienta elegante y eficiente para homelabbers, administradores de sistemas, entusiastas de la tecnología y cualquier persona que trabaje con ordenadores sin pantalla.
 
 ![got_feedback_from_reddit](https://www.crowdsupply.com/img/b24b/e04dfa15-1e5b-4bfb-b97c-acdba784b24b/got-feedback-from-reddit_jpg_gallery-lg.jpg)
 *Recibimos una gran cantidad de comentarios de homelabbers*
 
 ## Superando Dudas
-A pesar de las dudas iniciales sobre competir con soluciones similares existentes, la respuesta positiva y las sugerencias constructivas de las comunidades en línea ayudaron a aclarar los posibles casos de uso y aumentaron nuestra confianza. Sin este apoyo y la afirmación de nuestros esfuerzos, es posible que no hubiéramos seguido adelante con el proyecto.
+A pesar de las dudas iniciales sobre competir con soluciones similares existentes, la respuesta positiva y las sugerencias constructivas de las comunidades en línea ayudaron a aclarar los posibles casos de uso y aumentaron nuestra confianza. Sin este apoyo, es posible que no hubiéramos seguido adelante con el proyecto.
 
 ## Crowdfunding y Planes Futuros
 La campaña de crowdfunding para el Openterface Mini-KVM en Crowd Supply está ganando mucho impulso, con aproximadamente dos semanas restantes. Esta campaña no se trata solo de desarrollar el Mini-KVM; es un testimonio del poder de la innovación impulsada por la comunidad. A continuación, nos sumergiremos en la gestión de la producción, mejoras de software y la entrega de este práctico gadget a nuestros increíbles patrocinadores, todo impulsado por nuestra asombrosa comunidad de código abierto.

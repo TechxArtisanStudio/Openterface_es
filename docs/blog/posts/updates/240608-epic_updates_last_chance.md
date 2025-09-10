@@ -38,7 +38,7 @@ categories:
   - **Cómo Instalar:**
     - Descarga la aplicación de Windows desde nuestra versión en GitHub [aquí](https://github.com/TechxArtisanStudio/Openterface_QT/releases/tag/v0.0.1).
     - Compila desde el código fuente tanto para Windows como para Linux siguiendo nuestras instrucciones.
-    - **Desafío Raspberry Pi:** Estamos trabajando arduamente para que nuestra aplicación host funcione sin problemas en Raspberry Pi. ¡Pronto lo lograremos!
+    - **Desafío Raspberry Pi:** Estamos trabajando muy duro para que nuestra aplicación anfitrión funcione sin problemas en Raspberry Pi. ¡Pronto lo lograremos!
 
 ### Otras Aplicaciones
 
@@ -54,7 +54,7 @@ categories:
 
 Consulta el repositorio de hardware: [Openterface_Mini-KVM_Hardware](https://github.com/TechxArtisanStudio/Openterface_Mini-KVM_Hardware)
 
-Ya seas un profesional experimentado o estés comenzando, queremos tus comentarios y sugerencias creativas. ¡Y para los creadores, por qué no intentar construir nuestro mini-KVM desde cero? Modifica nuestro código, hazlo tuyo y muéstranos lo que tienes!
+Ya seas un profesional experimentado o estés comenzando, queremos tus comentarios y sugerencias creativas. Y para los creadores, ¿por qué no intentar construir nuestro mini-KVM desde cero? Modifica nuestro código, hazlo tuyo y ¡muéstranos lo que tienes!
 
 ## Accesorios Aún Mejores
 
@@ -62,7 +62,7 @@ Ya seas un profesional experimentado o estés comenzando, queremos tus comentari
 
 ![type-c-cable-v2-plugged-old-mac](https://www.crowdsupply.com/img/9871/2f6f967e-b9ea-4b48-b5dd-da135fb29871/type-c-cable-v2-plugged-old-mac_jpg_md-xl.jpg)
 
-¿Recuerdas nuestro [elegante cable Tipo-C naranja](/blog/from-development-to-your-hands--behind-the-scenes-/#upgrading-toolkit-accessories) con la agradable sensación de silicona? ¡Hemos recibido las primeras muestras y se ven increíbles! Estos cables soportan **carga rápida de 240W** (Voltaje DC50V, Corriente 5A, Potencia 240W) y funcionan perfectamente con nuestros mini-KVMs. ¡Un gran agradecimiento a nuestro fabricante y a nuestros patrocinadores por hacer esto posible!
+¿Recuerdas nuestro [elegante cable Tipo-C naranja](/blog/from-development-to-your-hands--behind-the-scenes-/#upgrading-toolkit-accessories) con el agradable tacto de silicona? ¡Hemos recibido las primeras muestras y se ven increíbles! Estos cables soportan **carga rápida de 240W** (Voltaje DC50V, Corriente 5A, Potencia 240W) y funcionan perfectamente con nuestros mini-KVMs. ¡Un gran agradecimiento a nuestro fabricante y a nuestros patrocinadores por hacer esto posible!
 
 ![type-c-cable-v2-open-2](https://www.crowdsupply.com/img/71b2/b37b66e3-7f2e-4c5e-bb45-8944ee2971b2/type-c-cable-v2-open-2_jpg_gallery-lg.jpg)
 
@@ -73,13 +73,13 @@ Con el nuevo adaptador adjunto para nuestro cable Tipo-C de 1.5m y la [actualiza
 
 ![beta-round2-toolkit](https://www.crowdsupply.com/img/0f20/4aed395b-dbef-4670-b340-403ee8e30f20/beta-round2-toolkit_jpg_md-xl.jpg)
 
-### Experimentos de Empaque
+### Experimentos de Embalaje
 
-Estamos experimentando con diferentes diseños para nuestras cajas de empaque exterior: coloridas, grises, negras y más. Nos inclinamos por el diseño colorido, ¡pero queremos tus comentarios!
+Estamos experimentando con diferentes diseños para nuestras cajas exteriores: coloridas, grises, negras y más. Nos inclinamos por el diseño colorido, ¡pero queremos tus comentarios!
 
 ![toolkit-boxes-showcase.jpg](https://www.crowdsupply.com/img/b54b/a041e188-b6ea-4f49-a550-46bc9565b54b/toolkit-boxes-showcase_jpg_gallery-lg.jpg)
 
-Consulta los detalles de nuestro kit beta enviado a nuestro equipo beta [aquí](https://www.reddit.com/r/Openterface_miniKVM/comments/1d40atr/tactical_reinforcements_round_2_are_on_their_way/). ¡Déjanos saber lo que piensas! Solo un aviso, este diseño de empaque no es final. Es posible que aún necesitemos ajustar el tamaño de la caja y agregar detalles esenciales como la marca CE y otra información requerida.
+Consulta los detalles de nuestro kit beta enviado a nuestro equipo beta [aquí](https://www.reddit.com/r/Openterface_miniKVM/comments/1d40atr/tactical_reinforcements_round_2_are_on_their_way/). ¡Déjanos saber lo que piensas! Solo un aviso, este diseño de embalaje no es final. Es posible que aún necesitemos ajustar el tamaño de la caja y agregar detalles esenciales como la marca CE y otra información requerida.
 
 ## ¡Última Oportunidad para Apoyarnos!
 
@@ -95,11 +95,11 @@ Entendemos el [escepticismo](/blog/from-development-to-your-hands--behind-the-sc
 
 **Confía en Nuestra Cultura:** Nos enfocamos en la excelencia técnica y la experiencia del usuario, abrazando la colaboración de código abierto. Únete a nuestra comunidad en [Reddit r/Openterface_miniKVM](/reddit) y [Discord TechxArtisan](/discord) para ver nuestro viaje desde los primeros prototipos hasta la versión actual de preproducción.
 
-Si aún no estás seguro, ¡está bien! Creemos que nuestro Openterface Mini-KVM te convencerá eventualmente.
+Si aún no estás seguro, ¡está bien! Creemos que nuestro Openterface Mini-KVM finalmente te convencerá.
 
 ### Más por Venir
 
-Siempre estamos cocinando algo emocionante, ¡así que por favor mantente atento! Si tienes alguna pregunta, únete a nosotros en nuestra [comunidad](/community/) o envíanos un correo electrónico: info@techxartisan.com. ¡Mantente al tanto y gracias por tu apoyo! 😄
+Siempre estamos cociendo algo emocionante, ¡así que por favor mantente atento! Si tienes alguna pregunta, únete a nosotros en nuestra [comunidad](/community/) o envíanos un correo electrónico: info@techxartisan.com. ¡Mantente al tanto y gracias por tu apoyo! 😄
 
 Saludos,
 

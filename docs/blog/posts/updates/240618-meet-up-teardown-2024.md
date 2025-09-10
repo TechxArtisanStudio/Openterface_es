@@ -11,7 +11,7 @@ categories:
 ¡Hola a todos! ¡Tenemos noticias fantásticas para compartir!
 
 ### ¡Muchas gracias!
-Primero que todo, no puedo [agradecerles lo suficiente](https://x.com/TechxArtisan/status/1801850068263178300) por su increíble apoyo. Nuestra campaña de crowdfunding ha superado absolutamente sus metas el 14 de junio, alcanzando **$248k** con el increíble apoyo de más de **1110 patrocinadores** y **Crowd Supply**.
+Antes de nada, no puedo [agradecerles lo suficiente](https://x.com/TechxArtisan/status/1801850068263178300) por su increíble apoyo. Nuestra campaña de crowdfunding ha superado absolutamente sus metas el 14 de junio, alcanzando **$248k** con el increíble apoyo de más de **1110 patrocinadores** y **Crowd Supply**.
 
 ![crowdfunding_end_240614](https://www.crowdsupply.com/img/b812/9768a2ad-1b78-45dd-966c-942c170fb812/crowdfunding-end-240614_jpg_md-xl.jpg)
 
@@ -29,19 +29,19 @@ Teardown 2024 Lloyd Center Mall Portland, Oregon 21-23 de junio de 2024
 
 Tendré una mesa de demostración en el evento Teardown: [¡Échale un vistazo aquí!](https://www.crowdsupply.com/teardown/portland-2024/demo/openterface-mini-kvm-turn-your-laptop-as-a-kvm-console)
 
-¿Hay alguna posibilidad de que estés cerca del área de Portland? ¡Sería fantástico conocerte en el evento! Compra el [boleto para Teardown](https://www.crowdsupply.com/teardown/portland-2024) ahora y espero verte allí—**¡ven y saluda!**
+¿Hay alguna posibilidad de que estés cerca del área de Portland? ¡Sería fantástico conocerte en el evento! Compra la [entrada para Teardown](https://www.crowdsupply.com/teardown/portland-2024) ahora y espero verte allí—**¡ven y saluda!**
 
 Si no puedes asistir al evento, no te preocupes. Siempre puedes encontrarme en nuestro Discord y Subreddit durante la conferencia. Puedes enviarme mensajes o hablar conmigo en tiempo real, ya que podría estar transmitiendo en vivo los tres días mientras estoy en la mesa de demostración, así que únete a nuestra comunidad ahora y no te perderás de nada.
 
 ### Desafío de videojuegos en Teardown
-Ahora, para un poco de diversión: Estoy organizando **una competencia de videojuegos** en Teardown 2024. Estaré demostrando cómo funciona nuestro Mini-KVM con la computadora portátil, uConsole, que básicamente es una Raspberry Pi. Mira mi tweet en X [aquí](https://x.com/TechxArtisan/status/1802675690015424962) para ver cómo lo configuraré con el Mini-KVM.
+Ahora, para un poco de diversión: Estoy organizando **una competición de videojuegos** en Teardown 2024. Estaré demostrando cómo funciona nuestro Mini-KVM con el dispositivo portátil, uConsole, que básicamente es una Raspberry Pi. Mira mi tweet en X [aquí](https://x.com/TechxArtisan/status/1802675690015424962) para ver cómo lo configuraré con el Mini-KVM.
 
 ![play-game-uconsole](https://www.crowdsupply.com/img/c4d2/d5fe66f3-4f3e-4398-bd11-494ae317c4d2/play-game-uconsole_png_md-xl.jpg)
 
 Estoy pensando en usar juegos como Pac-Man, The King of Fighters '97 y Tetris para el desafío de videojuegos. Y aquí está lo mejor—¡los ganadores pueden llevarse un Mini-KVM de mi parte allí mismo! Así que, ¡ven y juega conmigo para ganar!
 
 ### Más por venir
-Como siempre, estamos cocinando cosas emocionantes, y tendré un anuncio súper emocionante en Teardown. Así que mantente atento para más actualizaciones. ¡No puedo esperar para verte en Teardown 2024!
+Como siempre, estamos preparando cosas emocionantes, y tendré un anuncio súper emocionante en Teardown. Así que mantente atento para más actualizaciones. ¡No puedo esperar para verte en Teardown 2024!
 
 Saludos,  
 Billy Wang
