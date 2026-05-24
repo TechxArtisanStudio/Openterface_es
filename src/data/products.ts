@@ -1,4 +1,4 @@
-import { legacyPath, siteConfig } from '../config/site';
+import { docsPath, siteConfig } from '../config/site';
 
 export interface ProductDocLink {
   label: string;
@@ -74,11 +74,11 @@ export const products: Record<string, Product> = {
     ],
     useCases: ['Entrada para Smart TV y quioscos', 'Macros de flujo de trabajo móvil', 'Configuraciones de gaming y accesibilidad'],
     docLinks: [
-      { label: 'Características', href: legacyPath('/product/keymod/features/') },
-      { label: 'Contenido de la Caja', href: legacyPath('/product/keymod/whats-in-the-box/') },
-      { label: 'Cómo Conectar', href: legacyPath('/product/keymod/how-to-connect/') },
-      { label: 'Preguntas Frecuentes', href: legacyPath('/product/keymod/faq/') },
-      { label: 'Descargar App KeyMod', href: legacyPath('/app/overview/') },
+      { label: 'Características', href: docsPath('/product/keymod/features/') },
+      { label: 'Contenido de la Caja', href: docsPath('/product/keymod/whats-in-the-box/') },
+      { label: 'Cómo Conectar', href: docsPath('/product/keymod/how-to-connect/') },
+      { label: 'Preguntas Frecuentes', href: docsPath('/product/keymod/faq/') },
+      { label: 'Descargar App KeyMod', href: docsPath('/app/overview/') },
     ],
     legacyBase: '/product/keymod/',
   },
@@ -127,11 +127,11 @@ export const products: Record<string, Product> = {
     ],
     useCases: ['Recorridos por centros de datos', 'Configuración de dispositivos sin monitor', 'TI de campo y rescate de homelabs'],
     docLinks: [
-      { label: 'Características', href: legacyPath('/product/kvm-go/features/') },
-      { label: 'Inicio Rápido Beta', href: legacyPath('/product/kvm-go/beta-quick-start/') },
-      { label: 'Cómo Conectar', href: legacyPath('/product/kvm-go/how-to-connect/') },
-      { label: 'Preguntas Frecuentes', href: legacyPath('/product/kvm-go/faq/') },
-      { label: 'Descargar App', href: legacyPath('/app/overview/') },
+      { label: 'Características', href: docsPath('/product/kvm-go/features/') },
+      { label: 'Inicio Rápido Beta', href: docsPath('/product/kvm-go/beta-quick-start/') },
+      { label: 'Cómo Conectar', href: docsPath('/product/kvm-go/how-to-connect/') },
+      { label: 'Preguntas Frecuentes', href: docsPath('/product/kvm-go/faq/') },
+      { label: 'Descargar App', href: docsPath('/app/overview/') },
     ],
     legacyBase: '/product/kvm-go/',
   },
@@ -180,11 +180,11 @@ export const products: Record<string, Product> = {
     ],
     useCases: ['Gestión de homelabs', 'Control de estaciones de trabajo de desarrolladores', 'Resolución de problemas en bancos de TI'],
     docLinks: [
-      { label: 'Características', href: legacyPath('/product/minikvm/features/') },
-      { label: 'Interruptor USB', href: legacyPath('/product/minikvm/usb-switch/') },
-      { label: 'Soporte Técnico', href: legacyPath('/product/minikvm/support/') },
-      { label: 'Preguntas Frecuentes', href: legacyPath('/product/minikvm/faq/') },
-      { label: 'Descargar App', href: legacyPath('/app/overview/') },
+      { label: 'Características', href: docsPath('/product/minikvm/features/') },
+      { label: 'Interruptor USB', href: docsPath('/product/minikvm/usb-switch/') },
+      { label: 'Soporte Técnico', href: docsPath('/product/minikvm/support/') },
+      { label: 'Preguntas Frecuentes', href: docsPath('/product/minikvm/faq/') },
+      { label: 'Descargar App', href: docsPath('/app/overview/') },
     ],
     legacyBase: '/product/minikvm/',
   },
@@ -203,7 +203,7 @@ export const products: Record<string, Product> = {
       'https://assets.openterface.com/images/uconsole-kvm-extension/uconsole-kvm-extension-1.webp',
     ],
     buyLabel: 'Saber Más',
-    buyHref: legacyPath('/product/uconsole-kvm-extension/'),
+    buyHref: docsPath('/product/uconsole-kvm-extension/'),
     painPoints: [
       'Las consolas portátiles carecen de KVM integrado para objetivos sin monitor',
       'Los técnicos de campo quieren un solo dispositivo para todo',
@@ -226,10 +226,10 @@ export const products: Record<string, Product> = {
     ],
     useCases: ['Herramienta portátil para centros de datos', 'Maker y homelab sobre la marcha'],
     docLinks: [
-      { label: 'Instalación de Hardware', href: legacyPath('/product/uconsole-kvm-extension/hardware-installation/') },
-      { label: 'Configuración de Software', href: legacyPath('/product/uconsole-kvm-extension/software-setup/') },
-      { label: 'Cómo Conectar', href: legacyPath('/product/uconsole-kvm-extension/connect-to-target/') },
-      { label: 'Preguntas Frecuentes', href: legacyPath('/product/uconsole-kvm-extension/faq/') },
+      { label: 'Instalación de Hardware', href: docsPath('/product/uconsole-kvm-extension/hardware-installation/') },
+      { label: 'Configuración de Software', href: docsPath('/product/uconsole-kvm-extension/software-setup/') },
+      { label: 'Cómo Conectar', href: docsPath('/product/uconsole-kvm-extension/connect-to-target/') },
+      { label: 'Preguntas Frecuentes', href: docsPath('/product/uconsole-kvm-extension/faq/') },
     ],
     legacyBase: '/product/uconsole-kvm-extension/',
   },
@@ -257,7 +257,7 @@ export const products: Record<string, Product> = {
     specs: [],
     useCases: ['Organización de kits de campo', 'Conversión de formatos de video', 'Cables de repuesto para mochilas de TI'],
     docLinks: [
-      { label: 'Todos los SKUs', href: legacyPath('/product/accessories/') },
+      { label: 'Todos los SKUs', href: docsPath('/product/accessories/') },
       { label: 'Tienda TxA', href: siteConfig.links.shop },
     ],
     legacyBase: '/product/accessories/',
