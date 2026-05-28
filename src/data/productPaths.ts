@@ -20,8 +20,8 @@ export function productFlatPath(slug: string): string {
 }
 
 export const productsHubSeo = {
-  title: 'Products',
+  title: 'Productos',
   description:
-    'Explore Openterface hardware — KeyMod, KVM-GO, Mini-KVM, uConsole KVM Extension, and accessories — plus our open-source control apps.',
-  keywords: 'Openterface products, KeyMod, KVM-GO, Mini-KVM, KVM Extension, accessories, KVM app',
+    'Hardware KVM-over-USB ultracompacto y apps de código abierto para profesionales de TI, desarrolladores y makers.',
+  keywords: 'productos Openterface, KeyMod, KVM-GO, Mini-KVM, extensión KVM, accesorios, app KVM',
 };
