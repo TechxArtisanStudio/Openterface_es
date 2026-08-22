@@ -9,7 +9,7 @@ export const es: KeymodLandingStrings = {
     },
     nav: {
       docs: "Documentación",
-      preLaunchCta: "Pre-lanzamiento",
+      preLaunchCta: "Apoyar en Crowd Supply",
     },
     povTabs: {
       keyboard: "Teclado",
@@ -28,7 +28,7 @@ export const es: KeymodLandingStrings = {
       equationEquals: "=",
       lead: "Conéctalo al dispositivo objetivo. Control BLE, sin controladores, compatible con BIOS. Servidor, PC o consola. Cualquier puerto USB.",
       docsCta: "Documentación",
-      preLaunchCta: "Pre-lanzamiento",
+      preLaunchCta: "Apoyar en Crowd Supply",
     },
     whatItIs: {
       eyebrow: "Qué es",
@@ -49,7 +49,7 @@ export const es: KeymodLandingStrings = {
       eyebrow: "Elige tu puerto",
       title: "Mini vs Plus",
       stackLine: "La misma aplicación KeyCmd. Un dongle diferente para el puerto de tu máquina.",
-      crowdSupplyCta: "Pre-lanzamiento en Crowd Supply",
+      crowdSupplyCta: "Live en Crowd Supply",
       mini: {
         name: "KeyMod Mini",
         port: "USB-C macho → target",
@@ -127,10 +127,10 @@ export const es: KeymodLandingStrings = {
         mediaLabel: "Vista POV del diseño híbrido de KM Pro (marcador de posición)",
       },
       proTerminal: {
-        badge: "Terminal · Vista previa",
+        badge: "Terminal",
         title: "SSH desde tu móvil",
-        lead: "USB cuando está cableado. Bluetooth en el rack. Las demos de vista previa ya están disponibles en KeyCmd.",
-        body: "Modo Terminal dedicado en KeyCmd: SSH por USB ECM (Plus) o BLE-Eth (Mini). La conexión completa en producción llegará tras la Fase 2 del firmware de KeyMod.",
+        lead: "Abre sesiones SSH directamente desde KeyCmd. USB cuando está cableado. Bluetooth en el rack.",
+        body: "Modo Terminal en KeyCmd: SSH por USB ECM (Plus) o BLE-Eth (Mini). Funciona hoy con objetivos macOS y Linux.",
         mediaLabel: "Sesión SSH por Terminal (transporte USB, nueva toma)",
       },
       composeSend: {
@@ -262,19 +262,19 @@ export const es: KeymodLandingStrings = {
           ],
         },
         terminal: {
-          badge: "Terminal · Vista previa",
+          badge: "Terminal",
           title: "SSH desde tu teléfono",
-          body: "El modo Terminal dedicado ejecuta SSH a través del puente KeyMod. Elige USB para velocidad junto a la máquina o Bluetooth cuando estés al otro lado de la sala.",
-          experimentalHint: "Función de vista previa. SSH en vivo a través del hardware KeyMod llegará tras la validación de la Fase 2 del firmware.",
+          body: "El modo Terminal dedicado ejecuta SSH a través del puente KeyMod. Elige USB para velocidad junto a la máquina o Bluetooth cuando estés al otro lado de la sala. Funciona hoy con objetivos macOS y Linux.",
+          experimentalHint: "",
           demo: {
             interactiveDemoLabel: "Demo interactivo",
-            title: "Vista previa de Terminal",
+            title: "Demo de Terminal",
             summary: "Prueba la reproducción de sesión SSH pregrabada. No se requiere hardware.",
             statusDisconnected: "Desconectado",
             statusConnecting: "Conectando…",
             statusConnected: "Conectado",
-            demoBleLabel: "Demo de vista previa (Bluetooth)",
-            demoUsbLabel: "Demo de vista previa (USB)",
+            demoBleLabel: "Demo (Bluetooth)",
+            demoUsbLabel: "Demo (USB)",
             transportBle: "BLE",
             transportUsb: "USB",
             uiFidelityNote: "Interfaz aproximada. Consulta KeyCmd en tu teléfono para la app en vivo.",
@@ -284,13 +284,13 @@ export const es: KeymodLandingStrings = {
           },
           usb: {
             label: "USB ECM · KeyMod Plus",
-            body: "Conexión por cable cuando Plus está vinculado a tu teléfono. Baja latencia y alto rendimiento para sesiones completas junto al rack.",
+            body: "Conexión por cable cuando Plus está vinculado a tu teléfono. Mayor rendimiento para sesiones completas junto al rack.",
           },
           ble: {
             label: "BLE-Eth · KeyMod Mini",
-            body: "SSH inalámbrico cuando Mini está en el objetivo. Se recomienda geometría de terminal compacta. Demo de vista previa disponible en KeyCmd hoy.",
+            body: "SSH inalámbrico cuando Mini está en el objetivo. Se recomienda geometría de terminal compacta.",
           },
-          notice: "KeyCmd incluye la interfaz de Terminal y la pila de transporte hoy con demos de vista previa (USB y Bluetooth). SSH en vivo a través del hardware KeyMod llegará tras la validación de la Fase 2 del firmware.",
+          notice: "El modo Terminal está disponible hoy en KeyCmd. Abre sesiones SSH a través del puente KeyMod en objetivos macOS y Linux. El soporte para objetivos Windows mediante RNDIS está en desarrollo.",
         },
       },
       gameZone: {
@@ -471,10 +471,10 @@ export const es: KeymodLandingStrings = {
     productJourney: {
       eyebrow: "Recorrido del producto",
       title: "Del concepto a tu escritorio",
-      subtitle: "Siete hitos completados. La validación previa al lanzamiento está en marcha. La financiación colectiva y la distribución de pedidos son los siguientes pasos.",
+      subtitle: "Ocho hitos completados. Se han distribuido muestras de ingeniería limitadas. El crowdfunding está live en Crowd Supply.",
       scrollHint: "← Desliza para ver hitos anteriores",
       nowLabel: "Ahora",
-      nowSublabel: "Pre-lanzamiento · validación final de hardware y firmware",
+      nowSublabel: "Crowdfunding live en Crowd Supply",
       milestones: [
         {
           id: "concept",
@@ -491,8 +491,8 @@ export const es: KeymodLandingStrings = {
         {
           id: "cs-prelaunch",
           status: "done",
-          title: "Pre-lanzamiento en Crowd Supply",
-          lead: "Página de la campaña en vivo. Síguenos para el día del lanzamiento.",
+          title: "Campaña de Crowd Supply live",
+          lead: "La campaña está live. Apoya KeyMod para asegurar el tuyo.",
           href: keymodLinks.crowdSupply,
         },
         {
@@ -521,19 +521,16 @@ export const es: KeymodLandingStrings = {
         },
         {
           id: "beta-2",
-          status: "upcoming",
-          variant: "beta",
-          badge: "Beta · Ronda 2",
-          title: "Próximas invitaciones beta",
-          lead: "Beta cerrada más amplia con firmware y hardware actualizados antes del crowdfunding.",
-          timingLabel: "Antes del lanzamiento",
-          href: "#updates",
+          status: "done",
+          title: "Muestras de ingeniería distribuidas",
+          lead: "Unidades de ingeniería limitadas asignadas a primeros seguidores para validación en el mundo real.",
         },
         {
           id: "crowdfunding",
-          status: "upcoming",
-          title: "Inicio del crowdfunding",
-          timingLabel: "~Mediados de julio de 2026",
+          status: "done",
+          title: "Crowdfunding live",
+          timingLabel: "Agosto 2026",
+          href: keymodLinks.crowdSupply,
         },
         {
           id: "campaign",
@@ -577,15 +574,15 @@ export const es: KeymodLandingStrings = {
     },
     crowdSupplyCampaign: {
       eyebrow: "Crowd Supply",
-      title: "Pre-lanzamiento en Crowd Supply",
-      body: "Apoya a KeyMod Mini y Plus en Crowd Supply — puentes USB de bolsillo que convierten tu teléfono en una consola inalámbrica. ¡Apóyanos para hacerlo realidad!",
-      cta: "Pre-lanzamiento",
+      title: "Live en Crowd Supply",
+      body: "Apoya a KeyMod Mini y Plus en Crowd Supply. Puentes USB de bolsillo que convierten tu teléfono en una consola inalámbrica. La campaña está live.",
+      cta: "Apoyar la campaña",
     },
     crowdSupplySupport: {
       eyebrow: "Apoya el proyecto",
       title: "Ayúdanos a lanzar lo que viene",
-      body: "Sigue a KeyMod en Crowd Supply y apoya la campaña cuando se lance. Los modos experimentales como Agent se lanzan más rápido cuando más creadores apoyan el proyecto — cada patrocinador ayuda a llevar la hoja de ruta del firmware de la lista de espera a la realidad.",
-      cta: "Seguir en Crowd Supply",
+      body: "KeyMod está live en Crowd Supply. Apoya la campaña y ayúdanos a desarrollar la hoja de ruta del firmware. Los modos experimentales como Agent avanzan más rápido cuando más creadores apoyan el proyecto. Cada patrocinador nos da más tiempo de ingeniería.",
+      cta: "Apoyar en Crowd Supply",
     },
     crowdSupplyOpensource: {
       eyebrow: "Abierto por diseño",
@@ -608,7 +605,7 @@ export const es: KeymodLandingStrings = {
       title: "Recibe actualizaciones del lanzamiento de KeyMod",
       description: "Lanzamientos de productos, actualizaciones de firmware y guías de configuración. Como máximo un correo al mes. Sin spam.",
       benefits: [
-        "Acceso anticipado a campañas de crowdfunding y ventanas de preventa",
+        "Acceso directo a la campaña de Crowd Supply",
         "Guías de configuración y notas de lanzamiento de KeyCmd",
         "Cancela la suscripción en cualquier momento con un clic",
       ],
