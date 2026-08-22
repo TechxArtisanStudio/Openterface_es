@@ -572,7 +572,22 @@ export const es: KeymodLandingStrings = {
       cta: "Conoce KeyCmd",
       mediaLabel: "Pantalla de bienvenida de KeyCmd, elige un modo de control",
     },
-    crowdSupplyCampaign: {
+    crowdSupplyStats: {
+    eyebrow: 'Campaign progress',
+    title: 'Live on Crowd Supply',
+    ofGoal: 'of {goal} goal',
+    funded: 'Funded',
+    overFunded: 'Stretch goal unlocked!',
+    backers: 'backers',
+    daysLeft: 'days left',
+    updates: 'updates',
+    cta: 'Back the campaign',
+    lastUpdated: 'Updated',
+    updatedJustNow: 'just now',
+    updatedYesterday: 'yesterday',
+    fallbackText: 'Campaign is live on Crowd Supply.',
+  },
+  crowdSupplyCampaign: {
       eyebrow: "Crowd Supply",
       title: "Live en Crowd Supply",
       body: "Apoya a KeyMod Mini y Plus en Crowd Supply. Puentes USB de bolsillo que convierten tu teléfono en una consola inalámbrica. La campaña está live.",
